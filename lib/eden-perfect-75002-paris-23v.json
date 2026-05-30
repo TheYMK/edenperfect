@@ -1,0 +1,4945 @@
+{
+  "source": "https://www.planity.com/eden-perfect-75002-paris-23v",
+  "scrapedAt": "2026-05-29T19:21:13.310Z",
+  "business": {
+    "name": "Eden perfect",
+    "slug": "eden-perfect-75002-paris-23v",
+    "address": {
+      "street": "14, Rue Favart",
+      "locality": "Paris",
+      "postalCode": "75002",
+      "country": "France"
+    },
+    "rating": {
+      "globalRating": 3.783333333333333,
+      "ratingDetails": {
+        "ambianceRating": 3.7333333333333334,
+        "benefitRating": 3.8,
+        "hygieneRating": 3.7333333333333334,
+        "welcomeRating": 3.8666666666666667
+      },
+      "ratingsCount": 15
+    },
+    "description": {
+      "blocks": [
+        {
+          "depth": 0,
+          "key": "a7kab",
+          "text": "Situé au cœur de Paris, Eden Perfect est plus qu'un simple salon de coiffure. Avec une équipe de deux professionnels dévoués, ce lieu chic catégorisé comme véritable temple de la beauté propose une gamme complète de prestations. Allant des coupes de cheveux pour hommes et femmes en passant par des soins anti-âge, vous y vivrez une expérience exceptionnelle. Plongez dans un univers de détente avec leur massage californien, ou sublimez vos yeux grâce à des extensions de cils. L’expertise de nos professionnels en coiffure afro, brushing et coloration sans ammoniaque sera à votre disposition. Les adeptes de manucure ne seront pas laissés pour compte ! Extensions, stylisme ongulaire, nail art et faux ongles sont proposés avec perfection. Sans oublier les prestations uniques d'épilation parfaite et de soins du visage. Les clients précédents ont rapporté avoir été bien accueillis et ravis de leurs nouvelles coupes. Venez visiter le salon de coiffure Eden Perfect à Paris et rendez-vous magnifique.",
+          "type": "unstyled"
+        }
+      ],
+      "text": [
+        "Situé au cœur de Paris, Eden Perfect est plus qu'un simple salon de coiffure. Avec une équipe de deux professionnels dévoués, ce lieu chic catégorisé comme véritable temple de la beauté propose une gamme complète de prestations. Allant des coupes de cheveux pour hommes et femmes en passant par des soins anti-âge, vous y vivrez une expérience exceptionnelle. Plongez dans un univers de détente avec leur massage californien, ou sublimez vos yeux grâce à des extensions de cils. L’expertise de nos professionnels en coiffure afro, brushing et coloration sans ammoniaque sera à votre disposition. Les adeptes de manucure ne seront pas laissés pour compte ! Extensions, stylisme ongulaire, nail art et faux ongles sont proposés avec perfection. Sans oublier les prestations uniques d'épilation parfaite et de soins du visage. Les clients précédents ont rapporté avoir été bien accueillis et ravis de leurs nouvelles coupes. Venez visiter le salon de coiffure Eden Perfect à Paris et rendez-vous magnifique."
+      ]
+    }
+  },
+  "summary": {
+    "totalCategories": 17,
+    "totalServices": 295
+  },
+  "categories": [
+    {
+      "id": "-NgTlnBtlRloJTjfxcWr",
+      "name": "Coloration et Mèches",
+      "description": null,
+      "sort": 1,
+      "servicesCount": 25,
+      "services": [
+        {
+          "id": "-NgTm1lF8bnlG0sjSeC-",
+          "name": "Femme - Coloration, shampoing, brushing cheveux courts",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-NgTm2M-YqdyFjfSMvV0",
+          "name": "Femme - Coloration, shampoing, brushing cheveux mi-longs",
+          "description": null,
+          "duration": "1h 15min",
+          "durationMinutes": 75,
+          "price": {
+            "display": "65 €",
+            "type": "fixed",
+            "amount": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NgTm2VN-2AEy3hNkZZY",
+          "name": "Femme - Coloration, shampoing, brushing cheveux longs",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-OaUPtnfDcOzH0x7AHX1",
+          "name": "Femme - Coloration, shampoing, brushing cheveux tres long ",
+          "description": "De 75,00€ a 85,00€ + un supplément de 20,00€ si cheveu trés long\n\nUn devis est a faire auprés du salon.",
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "Sur devis",
+            "type": "quote",
+            "currency": "EUR"
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NgTmNKSc3gDkvEKu6yy",
+          "name": "Femme - Coloration, shampoing soin + brushing racines",
+          "description": null,
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "à partir de 55 €",
+            "type": "from",
+            "min": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgTmQHpDcyvtU7PvUa5",
+          "name": "Femme - Mèches + soin + shampoing + brushing cheveux courts ",
+          "description": null,
+          "duration": "1h 40min",
+          "durationMinutes": 100,
+          "price": {
+            "display": "85 €",
+            "type": "fixed",
+            "amount": 85,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-OaUUookXIdYIvXE838Y",
+          "name": "Femme - Mèches + shampoing + séchage cheveux courts ",
+          "description": null,
+          "duration": "1h 40min",
+          "durationMinutes": 100,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NgTmrp2tUie958-Y20n",
+          "name": "Femme - Mèches + soin + shampoing+ brushing cheveux mi-longs",
+          "description": null,
+          "duration": "1h 45min",
+          "durationMinutes": 105,
+          "price": {
+            "display": "95 €",
+            "type": "fixed",
+            "amount": 95,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-OaUVj33i3k0Ih89N1Qg",
+          "name": "Femme - Mèches + shampoing + séchage cheveux mi-longs",
+          "description": null,
+          "duration": "1h 45min",
+          "durationMinutes": 105,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-NgTmsAiET4Ms5lLLKR7",
+          "name": "Femme - Mèches+ soin + shampoing+ brushing cheveux longs",
+          "description": null,
+          "duration": "1h 50min",
+          "durationMinutes": 110,
+          "price": {
+            "display": "de 95 € à 120 €",
+            "type": "range",
+            "min": 95,
+            "max": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-OaUlubLCuJ4LJswaPT1",
+          "name": "Femme - Mèches+ shampoing+ séchage cheveux longs",
+          "description": null,
+          "duration": "1h 50min",
+          "durationMinutes": 110,
+          "price": {
+            "display": "95 €",
+            "type": "fixed",
+            "amount": 95,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-NgToGENRl_DhwuzN3Bb",
+          "name": "Femme - Balayage + soin + shampoing + brushing cheveux courts ",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "85 €",
+            "type": "fixed",
+            "amount": 85,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OaUnC_sgL7HGJ5xY_30",
+          "name": "Femme - Balayage + shampoing + séchage cheveux courts ",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-OaUnDPlCefJWkH429kY",
+          "name": "Femme - Balayage + soin + shampoing + brushing cheveux mi-longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "95 €",
+            "type": "fixed",
+            "amount": 95,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-OaUnDP5qKtnfO1CLJIQ",
+          "name": "Femme - Balayage + shampoing + séchage cheveux mi-longs ",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        },
+        {
+          "id": "-OaUtj9hwEkW1Ox9hQ5g",
+          "name": "Femme - Balayage + soin + shampoing + brushing cheveux longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "de 95 € à 120 €",
+            "type": "range",
+            "min": 95,
+            "max": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 16
+        },
+        {
+          "id": "-Nucnii9XDRE8UfUx1og",
+          "name": "Coloration cils ou sourcils",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 18
+        },
+        {
+          "id": "-NucoL16faCS66DMhTNo",
+          "name": "semi couleur ou shampoing colorant",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "de 32 € à 45 €",
+            "type": "range",
+            "min": 32,
+            "max": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 19
+        },
+        {
+          "id": "-NucoS3-hBMB2RbIcOdw",
+          "name": "Décoloration Tête Entière Cheveux Courts",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "de 45 € à 65 €",
+            "type": "range",
+            "min": 45,
+            "max": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        },
+        {
+          "id": "-NucoahWxmjYPhc4XkmZ",
+          "name": "Coloration Homme",
+          "description": null,
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "de 25 € à 35 €",
+            "type": "range",
+            "min": 25,
+            "max": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 21
+        },
+        {
+          "id": "-Nw_ZMkQ7ObY1i8tg3pL",
+          "name": "Décoloration cheveux mi-longs",
+          "description": "selon la masse",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "de 50 € à 70 €",
+            "type": "range",
+            "min": 50,
+            "max": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 22
+        },
+        {
+          "id": "-Nw_ZUG1ksRRgaUgTG1R",
+          "name": "Décoloration Racines",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 23
+        },
+        {
+          "id": "-Nw_ZeLlnO_tv4MWcjN1",
+          "name": "Décoloration - cheveux longs",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "Sur devis",
+            "type": "quote",
+            "currency": "EUR"
+          },
+          "bookable": true,
+          "sort": 24
+        },
+        {
+          "id": "-NykdM0Q0sORJ5CrgNv4",
+          "name": "décoloration des mèches (indiennes ou brésilienne) +shampoing + soin par paquet",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "de 55 € à 75 €",
+            "type": "range",
+            "min": 55,
+            "max": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 25
+        },
+        {
+          "id": "-O7ZkTMAZlvfWHelNeDo",
+          "name": "Coloration soin simple très long ( shp non inclu) sur devis",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "à partir de 60 €",
+            "type": "from",
+            "min": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 26
+        }
+      ]
+    },
+    {
+      "id": "-NgTelIUxPHd8LBOQkuL",
+      "name": "Soins cheveux",
+      "description": null,
+      "sort": 2,
+      "servicesCount": 31,
+      "services": [
+        {
+          "id": "-NgTeuaqCOExXm1MziML",
+          "name": "shompoing Soin express cheveux court afro + coiffage",
+          "description": "Profitez des propriétés réparatrices de cet incroyable soin capillaire rajeunissant !\n\nIl permet de :\n\nDiscipliner la chevelure,\nNourrir la fibre capillaire,\nDonner de la brillance.\n\nRevitalisés, vos cheveux sont éclatants !",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-NgTew36nb1rmr7-Oexx",
+          "name": "Rituel bien ètres avec le fauteuil massant (masque nurrissant +huiles essentielles)",
+          "description": "Profitez des propriétés réparatrices de cet incroyable soin capillaire rajeunissant !\n\nIl permet de :\n\nDiscipliner la chevelure,\nNourrir la fibre capillaire,\nDonner de la brillance.\n\nRevitalisés, vos cheveux sont éclatants !",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "75 €",
+            "type": "fixed",
+            "amount": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NgTewawokQcD6SZJATT",
+          "name": "Femme - Soin capillaire rajeunissant avec brushing",
+          "description": "Profitez des propriétés réparatrices de cet incroyable soin capillaire rajeunissant !\n\nIl permet de :\n\nDiscipliner la chevelure,\nNourrir la fibre capillaire,\nDonner de la brillance.\n\nRevitalisés, vos cheveux sont éclatants !",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "65 €",
+            "type": "fixed",
+            "amount": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgTewmve5gHo3RU1eMf",
+          "name": "Soin bot - Silk press",
+          "description": "Profitez des propriétés réparatrices de cet incroyable soin capillaire rajeunissant !\n\nIl permet de :\n\nDiscipliner la chevelure,\nNourrir la fibre capillaire,\nDonner de la brillance.\n\nRevitalisés, vos cheveux sont éclatants !",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NgTfZib3TPvKLd3IT74",
+          "name": "Femme - Soin capillaire d'entretien + coiffage cheveux courts",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\nApporter un mouvement souple et naturel à vos cheveux,\nHydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "42 €",
+            "type": "fixed",
+            "amount": 42,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgTf_D8zqdGWJPubClc",
+          "name": "Femme - Soin capillaire d'entretien + coiffage cheveux mi-longs",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\nApporter un mouvement souple et naturel à vos cheveux,\nHydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-NgTf_oPN2v0ZdVVslWQ",
+          "name": "Femme - Soin capillaire d'entretien + coiffage cheveux longs",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\nApporter un mouvement souple et naturel à vos cheveux,\nHydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "20min",
+          "durationMinutes": 20,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NgTftZFlvAjamjOO-Gp",
+          "name": "Femme - Soin capillaire profond aux huiles + coiffage cheveux bouclés et afro",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-NgTg47NFQpVXvbO9i5k",
+          "name": "Femme - Soin capillaire complet + coiffage ",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "50 €",
+            "type": "fixed",
+            "amount": 50,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-NgTgAHbXZVzn3JPSING",
+          "name": "Femme - Soin capillaire anti-pelliculaire + coiffage",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "1min",
+          "durationMinutes": 1,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-NgTgH3yqYrETAaGB1gM",
+          "name": "Femme - Soin capillaire anti-chute + coiffage",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "55min",
+          "durationMinutes": 55,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-NgTgYM-e_rtlWK6m_Wi",
+          "name": "Femme - Soin capillaire aux huiles essentielles et coiffage cheveux courts cheveux bouclés et afro",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-NgTgZnfKFI4qUTjQ3vq",
+          "name": "Femme - Soin capillaire aux huiles essentielles et coiffage cheveux mi-longs bouclés et afro",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "55min",
+          "durationMinutes": 55,
+          "price": {
+            "display": "62 €",
+            "type": "fixed",
+            "amount": 62,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-NgTgZzvcMt-EWsY0ymU",
+          "name": "Femme - Soin capillaire aux huiles essentielles et coiffage cheveux longs bouclés et afro",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "65 €",
+            "type": "fixed",
+            "amount": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-NgTgnox2DOMrIPIUXgd",
+          "name": "Femme - Soin capillaire purifiant + coiffage",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "55min",
+          "durationMinutes": 55,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        },
+        {
+          "id": "-NgTgrxREc_o7oZ4HWAi",
+          "name": "Femme - Soin capillaire hydratant + coiffage",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 16
+        },
+        {
+          "id": "-NgThDOeuu4vMO346Wkb",
+          "name": "Femme - Soin capillaire fortifiant + coiffage",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 17
+        },
+        {
+          "id": "-NgThQxbxzpByVgJyJ7n",
+          "name": "Femme - Soin capillaire bio ultra-nourrissant et stimulant aux huiles + fauteuil massant anti stress cheveux courts bouclés et afro",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "65 €",
+            "type": "fixed",
+            "amount": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 18
+        },
+        {
+          "id": "-NgThSfqdBzPJc22ChQJ",
+          "name": "Femme - Soin capillaire bio ultra-nourrissant et stimulant aux huiles + massage fauteuil massant cheveux  mi_longs bouclés et afro",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 19
+        },
+        {
+          "id": "-NgThSyoqxowOkHyTZSo",
+          "name": "Femme - Soin capillaire bio ultra-nourrissant et stimulant aux huiles + 10mn massage suivit d'un fauteuil massant cheveux longs bouclés et afro ",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        },
+        {
+          "id": "-NgThsw_tPVzm3Px_dfL",
+          "name": "Femme - supplément Soin capillaire ampoule concentré",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 21
+        },
+        {
+          "id": "-NgThtFdbkHX1Ue4sHQA",
+          "name": "Femme supplément - Soin capillaire cheveux très très longs",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 22
+        },
+        {
+          "id": "-NoNK2enN-i5mX-xq6wS",
+          "name": "Soin Repigmentant : Soin pour raviver et sublimer la couleur de reflets intenses tout en hydratant les cheveux",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "20 €",
+            "type": "fixed",
+            "amount": 20,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 27
+        },
+        {
+          "id": "-NoNKUCt4ksIrhPDHTcX",
+          "name": "rituel soin profond pour cheveux bouclés",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "à partir de 55 €",
+            "type": "from",
+            "min": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 28
+        },
+        {
+          "id": "-Nw_tPwcmq7S4s-4EdO3",
+          "name": "Soin à la kératine + Brush cheveuxs courts",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 29
+        },
+        {
+          "id": "-OT8bJ58kyH-ObDcVmyQ",
+          "name": "Soin à la kératine + Brush cheveux mi- longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 30
+        },
+        {
+          "id": "-OT8bJC6Uje6f_EnHPz_",
+          "name": "Soin à la kératine + Brush cheveux longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 31
+        },
+        {
+          "id": "-OT8ft74on-wZjnLYUQO",
+          "name": "Femme supplément - Soin capillaire cheveux très très longs",
+          "description": "Prenez soin de vos cheveux en profondeur avec un soin capillaire !\n\nRéaliser un soin est essentiel si vous souhaitez :\n\n- Apporter un mouvement souple et naturel à vos cheveux,\n- Hydrater et revitaliser votre fibre capillaire, quelle que soit votre nature de cheveux.\n\nVous repartez avec une chevelure douce, brillante et délicieusement propre.",
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 33
+        },
+        {
+          "id": "-O_qw6v6lDNfS5GYWGCK",
+          "name": "Soin Hydratant + Coupe Carrée + Coiffage cheveux court - mi long Afro / Métisses ",
+          "description": "FORFAIT !\nCoiffage avec le lisseur.",
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 34
+        },
+        {
+          "id": "-O_qwZiPB8DxJq1gGWtp",
+          "name": "Soin Hydratant + Coupe Carrée + Coiffage cheveux long Afro / Métisses",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 35
+        },
+        {
+          "id": "-Ob8B_VHQUTmIYovH-zD",
+          "name": "Soin STS",
+          "description": "Soin cheveux cassant",
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "à partir de 110 €",
+            "type": "from",
+            "min": 110,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 36
+        }
+      ]
+    },
+    {
+      "id": "-NgTNvgCDbTPPeqXTwqA",
+      "name": "Coupe De Cheveux Et Coiffure",
+      "description": null,
+      "sort": 4,
+      "servicesCount": 21,
+      "services": [
+        {
+          "id": "-NgTO4qxYq_WRrmRSlmg",
+          "name": "Homme - Shampoing coupe",
+          "description": "Mettez en valeur votre chevelure grâce à un shampoing professionnel !\n\nCe service inclut :\n\nUn shampoing adapté à votre nature de cheveux, leur apportant nutrition, force et éclat.\n\nVotre coiffure reste impeccable jusqu'à votre prochain shampoing !",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "28 €",
+            "type": "fixed",
+            "amount": 28,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-O5rORoAvLKTr3U7z6lJ",
+          "name": "Homme shampoing soin profond + brushing ( prévoir supplément si nattes )",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "à partir de 55 €",
+            "type": "from",
+            "min": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-O5rNJuvwlC5lJifaZ_p",
+          "name": "Homme shampoing + brushing + nattes ",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "à partir de 55 €",
+            "type": "from",
+            "min": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgTOA1haV8UmgHfaJ-U",
+          "name": "Femme shampoing traitant + soin + Coupe simple + séchage cheveux mi longs et longs",
+          "description": "Pour réveiller votre coupe ou changer de look, confiez votre chevelure aux ciseaux habiles des professionnels de la coiffure de votre salon !\n\nCe service inclut une coupe personnalisée en fonction de vos envies.\n\nStructure et mouvement, votre nouvelle coiffure a tout bon !",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "de 55 € à 65 €",
+            "type": "range",
+            "min": 55,
+            "max": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgTOJVV5l5TPjkTLX2z",
+          "name": "Femme shampoing traitant + soin - Coupe transformation séchage cheveux court",
+          "description": "Envie de changement ? Optez pour la coupe transformation et faites souffler un vent de nouveauté sur votre chevelure !\n\nVous ressortez du salon le sourire aux lèvres, ravie de votre nouvelle coupe !",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-NgTOTOUfPkGYpe6lS4g",
+          "name": "Femme - shampoing  + Coupe des pointes + sechages",
+          "description": "Envie de changement ? Optez pour la coupe transformation et faites souffler un vent de nouveauté sur votre chevelure !\n\nVous ressortez du salon le sourire aux lèvres, ravie de votre nouvelle coupe ! Si besoin brushing sur devis",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "30 €",
+            "type": "fixed",
+            "amount": 30,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NgTOYutS5QBdAnl_W4R",
+          "name": "Femme - Coupe des pointes simples cheveux sec",
+          "description": "Pointes abimées ou fourchues ? Optez pour la coupe des pointes qui vous permet de maintenir la bonne santé de vos cheveux en ôtant les parties fragilisant la partie saine du cheveu.",
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "18 €",
+            "type": "fixed",
+            "amount": 18,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-NgTarYS6Ue6XYMYqYb0",
+          "name": "Femme - Shampoing coupe des pointes et brushing cheveux longs",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "à partir de 45 €",
+            "type": "from",
+            "min": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-NgTb0imW6-lTnR4_BoR",
+          "name": "Femme - shampoing + soin + Coiffage ",
+          "description": null,
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "à partir de 45 €",
+            "type": "from",
+            "min": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-NgTb4yd_H0m5s86YHJo",
+          "name": "Femme -  Coiffure de mariage",
+          "description": "Le grand jour approche et vous voulez que tout soit parfait... à commencer par votre coiffure !\n\nVotre coiffure est réalisée en fonction de vos envies, du style de votre robe et de la nature de vos cheveux pour un résultat irréprochable et sur-mesure qui reste bien en place tout au long de la célébration.\n\nFaites confiance au savoir-faire des professionnels du salon pour vous concocter le plus beau des chignons de mariage !",
+          "duration": "2h 30min",
+          "durationMinutes": 150,
+          "price": {
+            "display": "à partir de 150 €",
+            "type": "from",
+            "min": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-Nhg6NUNEgWhHEpaaDap",
+          "name": "Shampoing + Brushing Cheveux Courts",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "30 €",
+            "type": "fixed",
+            "amount": 30,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        },
+        {
+          "id": "-Nhg9VzzUqDiNRATMvir",
+          "name": "Shampoing Brushing - Cheveux très mi_longs + boucle anglaise",
+          "description": null,
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "de 65 € à 70 €",
+            "type": "range",
+            "min": 65,
+            "max": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 16
+        },
+        {
+          "id": "-NhgRkMh__qVRGYEV6Ao",
+          "name": "Shampoing simple",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "à partir de 12 €",
+            "type": "from",
+            "min": 12,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 17
+        },
+        {
+          "id": "-NoNLv-icaRBecPtLEZi",
+          "name": "Shampoing soin  profond coupe cheveux bouclés et  coiffage avec les produits adaptés",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "à partir de 65 €",
+            "type": "from",
+            "min": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        },
+        {
+          "id": "-NoNN4X-zubsDQTby10B",
+          "name": "Supplément Soin cheveux très très long",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 21
+        },
+        {
+          "id": "-NoNNYaCtEKJzSgePqTT",
+          "name": "Coupe progressif - dégradé très court cheveux afro",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "25 €",
+            "type": "fixed",
+            "amount": 25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 22
+        },
+        {
+          "id": "-OUtPVnXIfLRRYV1SniZ",
+          "name": "Shampoing  soin + Brushing Cheveux Courts",
+          "description": "Concernant tout nos shampoing a soins 2 min de massage crânien tout en profitant de notre feuteil massant",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 23
+        },
+        {
+          "id": "-OUtPeUgyAXys0JLSIem",
+          "name": "Shampoing  soin Brushing - Cheveux  longs + boucle anglaise",
+          "description": null,
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "de 75 € à 80 €",
+            "type": "range",
+            "min": 75,
+            "max": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 24
+        },
+        {
+          "id": "-OUtQ-JxCU95WoY0GO2c",
+          "name": "Shampoing  soin Brushing - Cheveux très  très longs + boucle anglaise",
+          "description": null,
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "de 75 € à 80 €",
+            "type": "range",
+            "min": 75,
+            "max": 80,
+            "currency": "EUR",
+            "onQuotation": true
+          },
+          "bookable": true,
+          "sort": 25
+        },
+        {
+          "id": "-OdE2MC_0xVbgesxQESy",
+          "name": "Shampoing Traitant + Coupe + Brushing long / très long ",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "à partir de 60 €",
+            "type": "from",
+            "min": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 26
+        },
+        {
+          "id": "-OdE3hNGc6eQd6iDkEqT",
+          "name": "Femme - shampoing +soin+ coupe+ simple brushing simple cheveux court",
+          "description": "Si brushing bouclées sur devis.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 27
+        }
+      ]
+    },
+    {
+      "id": "-Nw_ZnJeiWpw0N8Jrl63",
+      "name": "Lissage & défrisage",
+      "description": null,
+      "sort": 5,
+      "servicesCount": 13,
+      "services": [
+        {
+          "id": "-Nw_ZnqZqKyxpsUNMA1u",
+          "name": "Femme - Lissage Brésilien cheveux cheveux courts avec un soin reconstructeur bot offert au bout d'un mois",
+          "description": "Le lissage Brésilien consiste à injecter au cœur du cheveu une solution à base de kératine : l'action de cette protéine naturellement présente dans le cheveu combinée à des plaques chauffantes permet de lisser la chevelure et de la débarrasser des frisottis tout en hydratant et en renforçant la fibre capillaire.\n\nVous profitez ainsi :\n\nD’un shampoing permettant d’ouvrir les écailles du cheveux afin d’absorber la kératine,\nD’une application du soin mèche à mèche,\nD’un rinçage et d’un séchage,\nD’un lissage au fer chauffant,\nD’un soin fixateur permettant de prolonger l’effet du lissage,\nD'un rinçage minutieux,\nD'un séchage délicat.\n\nVotre crinière garde un aspect doux et lisse pendant 2 à 3 mois !",
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "200 €",
+            "type": "fixed",
+            "amount": 200,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-Nw_ZoM2H8RnG8aOjEvH",
+          "name": "Femme - Lissage Brésilien cheveux cheveux mi-longs  avec un soin bot offert dans  un mois",
+          "description": "Le lissage Brésilien consiste à injecter au cœur du cheveu une solution à base de kératine : l'action de cette protéine naturellement présente dans le cheveu combinée à des plaques chauffantes permet de lisser la chevelure et de la débarrasser des frisottis tout en hydratant et en renforçant la fibre capillaire.\n\nVous profitez ainsi :\n\nD’un shampoing permettant d’ouvrir les écailles du cheveux afin d’absorber la kératine,\nD’une application du soin mèche à mèche,\nD’un rinçage et d’un séchage,\nD’un lissage au fer chauffant,\nD’un soin fixateur permettant de prolonger l’effet du lissage,\nD'un rinçage minutieux,\nD'un séchage délicat.\n\nVotre crinière garde un aspect doux et lisse pendant 2 à 3 mois !",
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "220 €",
+            "type": "fixed",
+            "amount": 220,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-Nw_ZosqeSIVYsHn_7_y",
+          "name": "Femme - Lissage Brésilien cheveux cheveux  longs + coupe avec un soin bot offert dans un mois ",
+          "description": "Le lissage Brésilien consiste à injecter au cœur du cheveu une solution à base de kératine : l'action de cette protéine naturellement présente dans le cheveu combinée à des plaques chauffantes permet de lisser la chevelure et de la débarrasser des frisottis tout en hydratant et en renforçant la fibre capillaire.\n\nVous profitez ainsi :\n\nD’un shampoing permettant d’ouvrir les écailles du cheveux afin d’absorber la kératine,\nD’une application du soin mèche à mèche,\nD’un rinçage et d’un séchage,\nD’un lissage au fer chauffant,\nD’un soin fixateur permettant de prolonger l’effet du lissage,\nD'un rinçage minutieux,\nD'un séchage délicat.\n\nVotre crinière garde un aspect doux et lisse pendant 2 à 3 mois !",
+          "duration": "2h 30min",
+          "durationMinutes": 150,
+          "price": {
+            "display": "230 €",
+            "type": "fixed",
+            "amount": 230,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-Nw_ZpNoAJB59uaz6Hfu",
+          "name": "Femme - Lissage Brésilien cheveux cheveux très longs + coupe simple",
+          "description": "Le lissage Brésilien consiste à injecter au cœur du cheveu une solution à base de kératine : l'action de cette protéine naturellement présente dans le cheveu combinée à des plaques chauffantes permet de lisser la chevelure et de la débarrasser des frisottis tout en hydratant et en renforçant la fibre capillaire.\n\nVous profitez ainsi :\n\nD’un shampoing permettant d’ouvrir les écailles du cheveux afin d’absorber la kératine,\nD’une application du soin mèche à mèche,\nD’un rinçage et d’un séchage,\nD’un lissage au fer chauffant,\nD’un soin fixateur permettant de prolonger l’effet du lissage,\nD'un rinçage minutieux,\nD'un séchage délicat.\n\nVotre crinière garde un aspect doux et lisse pendant 2 à 3 mois !",
+          "duration": "2h 30min",
+          "durationMinutes": 150,
+          "price": {
+            "display": "200 €",
+            "type": "fixed",
+            "amount": 200,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-Nw_ZzQLZ_r-EzW9wY_d",
+          "name": "Soin bot cheveux courts",
+          "description": "Soin profond qui regenere, nourrit et revitalise les cheveux en profondeur. Un traitement reparateur à base de kératine, proteines et vitamines",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 19
+        },
+        {
+          "id": "-Nw__-Sy0ErDM_FG5PBe",
+          "name": "Soin bot cheveux mi-longs & longs",
+          "description": "Soin profond qui regenere, nourrit et revitalise les cheveux en profondeur. Un traitement reparateur à base de kératine, proteines et vitamines",
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "de 120 € à 140 €",
+            "type": "range",
+            "min": 120,
+            "max": 140,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        },
+        {
+          "id": "-Nw__-yp-e8hPrXv5ZDw",
+          "name": "Lissage Tanin Court ",
+          "description": "Methodes 100% naturelle qui lisse et repare fortifie les cheveux. Soin haut gamme a la fois lissant et reparateur.",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "130 €",
+            "type": "fixed",
+            "amount": 130,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 21
+        },
+        {
+          "id": "-Nw__0UFTEXaoJdvUr18",
+          "name": "Lissage Tanin Mi-Long",
+          "description": "Methodes 100% naturelle qui lisse et repare fortifie les cheveux. Soin haut gamme a la fois lissant et reparateur.",
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "150 €",
+            "type": "fixed",
+            "amount": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 22
+        },
+        {
+          "id": "-Nw__1QCFRda7as-C0TI",
+          "name": "Lissage Tanin Long",
+          "description": "Methodes 100% naturelle qui lisse et repare fortifie les cheveux. Soin haut gamme a la fois lissant et reparateur.",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "170 €",
+            "type": "fixed",
+            "amount": 170,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 23
+        },
+        {
+          "id": "-Nw__2NZKfKQrb4slr2a",
+          "name": "Lissage collagène cheveux courts ( soin réparateur,  pour les cheveux tes abimés et cassants )",
+          "description": "Aide a réparer les fibres abimées et a hydrater en profondeur. Les effets peuvent durer 3 à 4 mois avec une brillance extreme",
+          "duration": "2h 10min",
+          "durationMinutes": 130,
+          "price": {
+            "display": "180 €",
+            "type": "fixed",
+            "amount": 180,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 24
+        },
+        {
+          "id": "-OYp9mw9rr7xgW7lvT7F",
+          "name": "Lissage collagène cheveux mi_longs ( soin réparateur,  pour les cheveux tes abimés et cassants )",
+          "description": "Aide a réparer les fibres abimées et a hydrater en profondeur. Les effets peuvent durer 3 à 4 mois avec une brillance extreme",
+          "duration": "2h 20min",
+          "durationMinutes": 140,
+          "price": {
+            "display": "190 €",
+            "type": "fixed",
+            "amount": 190,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 27
+        },
+        {
+          "id": "-OYpAAeXhHS4YNxHveZB",
+          "name": "Lissage collagène cheveux longs( soin réparateur,  pour les cheveux tes abimés et cassants )",
+          "description": "Aide a réparer les fibres abimées et a hydrater en profondeur. Les effets peuvent durer 3 à 4 mois avec une brillance extreme. nourrit, gaine et fais pousser les cheveux. Cheveux très longs sur devis.",
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "à partir de 220 €",
+            "type": "from",
+            "min": 220,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 28
+        },
+        {
+          "id": "-OZEWdotNix4PPoKtT93",
+          "name": "Lissage vapeur SteamPod avec produits Mi-long",
+          "description": "Le lissage vapeur au steampod est l'une des méthodes les plus efficaces et douces pour obtenir des cheveux lisses brillants et en pleine santé. La puissance de la vapeur pour lisser la fibre sans la bruler ni la dessécher.",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "à partir de 40 €",
+            "type": "from",
+            "min": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 29
+        }
+      ]
+    },
+    {
+      "id": "-NgTbBBZPA5TR8k1CeuM",
+      "name": "Défrisage",
+      "description": null,
+      "sort": 6,
+      "servicesCount": 4,
+      "services": [
+        {
+          "id": "-OjarcV2ufyMZGvhQBsH",
+          "name": "Défrisage AFFIRM / DESIGN ESSENTIAL cheveux court",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 55
+        },
+        {
+          "id": "-Ojat751JbZZM9aH9W7S",
+          "name": "Défrisage AFFIRM / DESIGN ESSENTIAL cheveux mi longs ",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 57
+        },
+        {
+          "id": "-OjayC0HHvH00GeXNE8v",
+          "name": "Défrisage AFFIRM / DESIGN ESSENTIAL cheveux longs",
+          "description": null,
+          "duration": "2h 25min",
+          "durationMinutes": 145,
+          "price": {
+            "display": "100 €",
+            "type": "fixed",
+            "amount": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 59
+        },
+        {
+          "id": "-OjayaPo2vpDZ-Lf45nA",
+          "name": "Défrisage AFFIRM  DIESIGN ESSENTIAL GLOBAL avec coiffage cheveux très long",
+          "description": null,
+          "duration": "2h 25min",
+          "durationMinutes": 145,
+          "price": {
+            "display": "Sur devis",
+            "type": "quote",
+            "currency": "EUR"
+          },
+          "bookable": true,
+          "sort": 60
+        }
+      ]
+    },
+    {
+      "id": "-NgTiDQ4cknYfeUTfqpQ",
+      "name": "Tresses",
+      "description": "SPECIALITE DE L'ETABLISSEMENT\n\nGrand classique de la coiffure, la tresse consiste à tresser les cheveux en partant du haut du crâne et en allant jusqu’à la nuque ou jusqu’aux pointes.\n\nSelon vos envies, les tresses peuvent être plus ou moins fines ou épaisses et avoir différentes formes. Une fois les tresses réalisées, vous pouvez les lâcher ou les attacher pour arborer la coiffure de votre choix.",
+      "sort": 8,
+      "servicesCount": 23,
+      "services": [
+        {
+          "id": "-NgTiKqrCq66DdB2COFd",
+          "name": "Retrait de natte",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-NgTiO9bVKZ-njs2MCEI",
+          "name": "Tresse pour perruque",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "de 15 € à 25 €",
+            "type": "range",
+            "min": 15,
+            "max": 25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NgTiQaaeJQdZKpzOykp",
+          "name": "Entretien de natte",
+          "description": null,
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "de 25 € à 35 €",
+            "type": "range",
+            "min": 25,
+            "max": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgTiT1O9j6Us0HeMdps",
+          "name": "Retrait de braid",
+          "description": null,
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "de 25 € à 35 €",
+            "type": "range",
+            "min": 25,
+            "max": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NgTiVxqzP1QOOdUXIr8",
+          "name": "2 grosses nattes + rajout",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "30 €",
+            "type": "fixed",
+            "amount": 30,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgTiYSW72Z2IhtYDMlJ",
+          "name": "Tresse natte rajout ",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "de 45 € à 75 €",
+            "type": "range",
+            "min": 45,
+            "max": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-NgTiagHVxP7KLqvSN-y",
+          "name": "4 tresses collées sur le coté rajout",
+          "description": null,
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "à partir de 40 €",
+            "type": "from",
+            "min": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NgTidmFRiImEUh42OMZ",
+          "name": "Tresse Afro natte et crochets",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "à partir de 60 €",
+            "type": "from",
+            "min": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-NgTih1X38w9kjGHdtHx",
+          "name": "Chignon ponytail ",
+          "description": null,
+          "duration": "35min",
+          "durationMinutes": 35,
+          "price": {
+            "display": "de 40 € à 55 €",
+            "type": "range",
+            "min": 40,
+            "max": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-NgTikbGTifNg7S-8RBe",
+          "name": "Ecaille nattes selon le modèle",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "de 55 € à 90 €",
+            "type": "range",
+            "min": 55,
+            "max": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-NgTisNt5mQVzA6puDUj",
+          "name": "Rasta (braides) selon la longueur ",
+          "description": null,
+          "duration": "3h",
+          "durationMinutes": 180,
+          "price": {
+            "display": "de 75 € à 150 €",
+            "type": "range",
+            "min": 75,
+            "max": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-NgTiuWa9pOGHnh3NAM6",
+          "name": "Vanille",
+          "description": "Sans méches :\nCheveu court : 60 €\nCheveu mi-long : 70€\nCheveu long : 80€\n\nAvec méches : \nCheveu court : 80€\nCheveu mi-long : 120€\nCheveu long : 150€\n\nLes prix dépendent de la grosseur des vanilles.",
+          "duration": "3h",
+          "durationMinutes": 180,
+          "price": {
+            "display": "de 80 € à 180 €",
+            "type": "range",
+            "min": 80,
+            "max": 180,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-NgTixyRCp8fKQV0nZN9",
+          "name": "Piqué lacher ",
+          "description": null,
+          "duration": "3h",
+          "durationMinutes": 180,
+          "price": {
+            "display": "de 65 € à 90 €",
+            "type": "range",
+            "min": 65,
+            "max": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-NoNAMk2Q1a3gpL9RJB8",
+          "name": "Chignon Attaché",
+          "description": null,
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "à partir de 55 €",
+            "type": "from",
+            "min": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 34
+        },
+        {
+          "id": "-NoNA_mOH2XWANxEmYce",
+          "name": "Chignon Express",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "à partir de 40 €",
+            "type": "from",
+            "min": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 35
+        },
+        {
+          "id": "-O1RmgHRq_kW9Qjc_6Ob",
+          "name": "knotless ( selon la longueur la grosseur et le volume)",
+          "description": null,
+          "duration": "3h",
+          "durationMinutes": 180,
+          "price": {
+            "display": "de 80 € à 180 €",
+            "type": "range",
+            "min": 80,
+            "max": 180,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 43
+        },
+        {
+          "id": "-O250H_qJAqJqdw7v8DC",
+          "name": "fulany",
+          "description": null,
+          "duration": "3h 30min",
+          "durationMinutes": 210,
+          "price": {
+            "display": "de 90 € à 120 €",
+            "type": "range",
+            "min": 90,
+            "max": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 45
+        },
+        {
+          "id": "-OT8BBApdRO646sGA1-O",
+          "name": "Box Braids Cheveux Mi-longs",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "de 80 € à 110 €",
+            "type": "range",
+            "min": 80,
+            "max": 110,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 52
+        },
+        {
+          "id": "-OTpi7GvevJxictMgEhc",
+          "name": "Box Braids Cheveux longs",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "de 120 € à 140 €",
+            "type": "range",
+            "min": 120,
+            "max": 140,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 56
+        },
+        {
+          "id": "-OTpjs7hP0SpSE4612M9",
+          "name": "Box Braids très longs ( tout dépond de la grosseur )",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "de 140 € à 180 €",
+            "type": "range",
+            "min": 140,
+            "max": 180,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 57
+        },
+        {
+          "id": "-OUtlUf5eIkNpUxs3JmT",
+          "name": "Shampoing d'entretien  des braids selon la langueur",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "de 35 € à 45 €",
+            "type": "range",
+            "min": 35,
+            "max": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 58
+        },
+        {
+          "id": "-OUtm9JxTyeGl68fkU5e",
+          "name": "Entretien de natte",
+          "description": null,
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "de 25 € à 35 €",
+            "type": "range",
+            "min": 25,
+            "max": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 59
+        },
+        {
+          "id": "-OaUM5RzCau615ocT-R1",
+          "name": "Tresse natte rajout ",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "de 45 € à 75 €",
+            "type": "range",
+            "min": 45,
+            "max": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 61
+        }
+      ]
+    },
+    {
+      "id": "-NgTj2bjC6irxIPdwp6Y",
+      "name": "Extensions",
+      "description": "Spécialistes en mise en beauté capillaire, nous vous proposons la pose d'extensions, perruques et tissages avec des techniques adaptées a vos besoins. Que vous souhaitiez plus de longueur, de volume ou un style totalement personnalisé, nous mettons notre savoir-faire à votre service pour un rendu élégant.",
+      "sort": 9,
+      "servicesCount": 7,
+      "services": [
+        {
+          "id": "-NgTjJAITsrcZsM0-ilx",
+          "name": "Ligne ou bande de tissage",
+          "description": "Si brushing bouclés prévoir un supplément.",
+          "duration": "25min",
+          "durationMinutes": 25,
+          "price": {
+            "display": "25 €",
+            "type": "fixed",
+            "amount": 25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgTjTcytDALaik3FgMK",
+          "name": "Extensions au fil par bande ( ligne par ligne) ",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "25 €",
+            "type": "fixed",
+            "amount": 25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgTjnG_jxnkynieT6ql",
+          "name": "Extensions au fil demi tete",
+          "description": "les prix varient en fonction du volume demandé",
+          "duration": "4h 30min",
+          "durationMinutes": 270,
+          "price": {
+            "display": "de 150 € à 170 €",
+            "type": "range",
+            "min": 150,
+            "max": 170,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-NgTjqsBDFjfMPQ2CdL7",
+          "name": "Extensions au fil tête entière",
+          "description": "les prix varient en fonction du volume demandé",
+          "duration": "4h 40min",
+          "durationMinutes": 280,
+          "price": {
+            "display": "de 200 € à 250 €",
+            "type": "range",
+            "min": 200,
+            "max": 250,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-OT8x7DbElxPWlpk2B2y",
+          "name": "forfait shampoing soin complet + pose de Tape in + brushing",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "150 €",
+            "type": "fixed",
+            "amount": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 27
+        },
+        {
+          "id": "-OYplfd-qI0Ct25hBOMg",
+          "name": "Tissage avec anneaux ( EXTENSIONS WEFT)",
+          "description": "25  euros par lignes prévoyez le supplément brushing",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "25 €",
+            "type": "fixed",
+            "amount": 25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 49
+        },
+        {
+          "id": "-OlLs0RCqL3KlwJmYsL2",
+          "name": "Extensions Tap In",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "110 €",
+            "type": "fixed",
+            "amount": 110,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 55
+        }
+      ]
+    },
+    {
+      "id": "-NgU2cHMgg7-8rl2FSr1",
+      "name": "Maquillage",
+      "description": null,
+      "sort": 11,
+      "servicesCount": 11,
+      "services": [
+        {
+          "id": "-NgU2j8kFGcrutInsAeB",
+          "name": "Maquillage de mariée (essai )",
+          "description": "Que vous soyez plutôt smoky eye ou bouche couture, c'est l'occasion rêvée de confier votre visage à des mains expertes. Le maquillage réalisé est adapté à vos envies, votre carnation et votre tenue pour un résultat sur-mesure des plus séduisants.\n\nVotre maquilleuse en profite pour vous donner quelques astuces make-up pour adopter, chez vous, les bons gestes et les bons produits de maquillage.\n\nÀ vous le teint parfait, les yeux de biche et le sourire glamour qui font rayonner votre beauté tout au long de la soirée !",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "50 €",
+            "type": "fixed",
+            "amount": 50,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-NgU2q1La5OFJ2xSFUbr",
+          "name": "Maquillage de fête - retouche ",
+          "description": null,
+          "duration": "25min",
+          "durationMinutes": 25,
+          "price": {
+            "display": "30 €",
+            "type": "fixed",
+            "amount": 30,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NgU2qu1QGA5pVEU0fhe",
+          "name": "Maquillage de fête - flash",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgU2vS7ubESIPocwrcP",
+          "name": "Maquillage Soir",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "50 €",
+            "type": "fixed",
+            "amount": 50,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NgU3-3RyVjecf6Sc250",
+          "name": "Maquillage de soirée naturel",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgU31v-CyE6_gzFRyAG",
+          "name": "Maquillage de mariée simple",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "100 €",
+            "type": "fixed",
+            "amount": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-NgU39Lt6tp6gWWzsIAs",
+          "name": "Maquillage mariée (jour J)",
+          "description": "Pour que vous soyez la plus belle le jour de votre mariage, des professionnelles de la beauté vous accompagnent et vous conseillent pour choisir le maquillage qui vous convient le mieux.\n\nVous réalisez vos envies sans prendre de risque grâce à une session d'essai maquillage. Cet essai vous permet de choisir le maquillage parfait pour le jour J.\n\nLe grand jour arrivé, les esthéticiennes de l'institut vous subliment. Vous êtes la plus belle des mariées !",
+          "duration": "1h 35min",
+          "durationMinutes": 95,
+          "price": {
+            "display": "150 €",
+            "type": "fixed",
+            "amount": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NgU3FWdCOrWG3KfMMnp",
+          "name": "Maquillage des mariées à domicile",
+          "description": "Le jour J est arrivé, il est temps de vous faire chouchouter par une maquilleuse professionnelle. Sa mission ? Faire de vous la plus jolie des mariées !\n\nÀ l'écoute de vos envies, elle commence par analyser les traits de votre visage et votre carnation pour sélectionner les teintes et matières qui conviennent le mieux à votre type de peau. Pinceaux, crayons, fluides, poudres et savoir-faire sont au service de votre beauté pour vous offrir un maquillage sur-mesure et longue tenue.\n\nOffrez-vous le maquillage de mariée dont vous avez toujours rêvé !",
+          "duration": "3h",
+          "durationMinutes": 180,
+          "price": {
+            "display": "à partir de 200 €",
+            "type": "from",
+            "min": 200,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-NoISDbPyNiXZzu9126b",
+          "name": "Chignon Simple",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "à partir de 60 €",
+            "type": "from",
+            "min": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-NoISZw4VC9fvqFvk9fa",
+          "name": "Chignon Mariée ",
+          "description": null,
+          "duration": "1min",
+          "durationMinutes": 1,
+          "price": {
+            "display": "à partir de 100 €",
+            "type": "from",
+            "min": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-NoIT1Qk6JgHKko9x_se",
+          "name": "Chignon Mariée avec la pose de perruque",
+          "description": null,
+          "duration": "2h 5min",
+          "durationMinutes": 125,
+          "price": {
+            "display": "150 €",
+            "type": "fixed",
+            "amount": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        }
+      ]
+    },
+    {
+      "id": "-NgU1egnuMFV3tTBuKVC",
+      "name": "Beauté Du Regard",
+      "description": null,
+      "sort": 12,
+      "servicesCount": 17,
+      "services": [
+        {
+          "id": "-NgU1n0qcE27AILXSbdG",
+          "name": "Extension de Cils Pose \"regard Oeil de Biche\"",
+          "description": "Les extensions de cils consistent à sublimer votre regard en ajoutant des cils supplémentaires à vos propres cils.\n\nCette technique est idéale pour augmenter le volume de vos cils et/ou les allonger en leur donnant un aspect naturel.",
+          "duration": "2h 30min",
+          "durationMinutes": 150,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-NgU1nVfXCFVe67Jwljr",
+          "name": "Extension de cils volume russe glamour",
+          "description": "L'extension des cils cil par cil est la méthode idéale pour obtenir des cils naturellement plus longs, plus abondants et plus épais.\n\nGrâce à l'application professionnelle d'une centaine de cils en fibre de soie par œil, vos cils obtiennent une apparence plus épaisse, plus dense et plus longue.\n\nL'extension de cils a une tenue d'environ trois à quatre semaines, selon le cycle naturel de repousse de vos cils.\nCette technique est idéale pour augmenter le volume de vos cils et/ou les allonger en leur donnant un aspect naturel.",
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "100 €",
+            "type": "fixed",
+            "amount": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NgU1u2lVRgtt85vyqCz",
+          "name": "Remplissage d’extension de cil",
+          "description": "Suivant le cycle naturel de repousse des cils, vos extensions nécessitent un remplissage trois semaines après la première pose.\n\nCe remplissage est réalisé cil à cil, en respectant la ligne et la courbure des cils pour un résultat éclatant de naturel.\n\nFaites confiance au savoir-faire de votre salon pour redonner toute sa séduction à votre regard !",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "à partir de 34 €",
+            "type": "from",
+            "min": 34,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgU235mk37e5ZywfVFB",
+          "name": "Dépose d'extension de ci",
+          "description": "Prenez place au coeur de votre salon pour une dépose d'extension tout en douceur !\n\nInstallez-vous confortablement puis fermez vos yeux. Votre styliste s'attache à retirer vos extensions de cils avec dextérité afin de préserver vos cils naturels.",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "12 €",
+            "type": "fixed",
+            "amount": 12,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NgU2DqUO5I1PvKdtAhn",
+          "name": "Extensions de cils cil à cil effet naturel",
+          "description": "Pour arborer un regard de biche le temps d'une soirée, la pose de faux cils est la solution idéale !\n\nElle garantit volume et maintient tout au long de la soirée, faisant de vous le plus bel oiseau de nuit.",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "à partir de 68 €",
+            "type": "from",
+            "min": 68,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgU2JNcYsyPJuMwNrPG",
+          "name": "Extensions coin externe",
+          "description": "Pour arborer un regard de biche le temps d'une soirée, la pose de faux cils est la solution idéale !\n\nElle garantit volume et maintient tout au long de la soirée, faisant de vous le plus bel oiseau de nuit.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "à partir de 38.25 €",
+            "type": "from",
+            "min": 38.25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-NhgSrzypQGI9jDYuVyS",
+          "name": "Extension de Cils pause de découverte",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "50 €",
+            "type": "fixed",
+            "amount": 50,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NhgT6Ooo3-RyHDpMCWZ",
+          "name": "extensions de cils volume russe naturel",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-NhgTQS4thWSyiML0ZUI",
+          "name": "Extension de Cils : Volume Russe (3D / 4D / 5D)",
+          "description": null,
+          "duration": "2h 20min",
+          "durationMinutes": 140,
+          "price": {
+            "display": "100 €",
+            "type": "fixed",
+            "amount": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-Nr5WUhqcrLBlV9DDU5Q",
+          "name": "Extension de Cils volume russe maxi ",
+          "description": null,
+          "duration": "2h 20min",
+          "durationMinutes": 140,
+          "price": {
+            "display": "120 €",
+            "type": "fixed",
+            "amount": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-Nw_5GvpWLDjV7e74gBG",
+          "name": "Extension de Cils Mega Volume Russe",
+          "description": null,
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "de 130 € à 150 €",
+            "type": "range",
+            "min": 130,
+            "max": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        },
+        {
+          "id": "-Nw_NzGWECmKprmxybsx",
+          "name": "Réhaussement des cils",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 16
+        },
+        {
+          "id": "-Nw_OHS1HiGABZNkvrhb",
+          "name": "Forfait rehaussement + teinture",
+          "description": null,
+          "duration": "55min",
+          "durationMinutes": 55,
+          "price": {
+            "display": "75 €",
+            "type": "fixed",
+            "amount": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 17
+        },
+        {
+          "id": "-Nw_PDAyo2PhITKtwFzy",
+          "name": "Forfait réhaussement des cils + mascara semi-permanent",
+          "description": null,
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "75 €",
+            "type": "fixed",
+            "amount": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 18
+        },
+        {
+          "id": "-Nw_PMcUTdX4_VdrdnCg",
+          "name": "Mascara Semi-Permanent",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 19
+        },
+        {
+          "id": "-Nw_Ppa23FAsbKDJdiy1",
+          "name": "Teinture des Cils",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        },
+        {
+          "id": "-Nw_QAVazJs4H9WENpvG",
+          "name": "Teinture Sourcils",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 21
+        }
+      ]
+    },
+    {
+      "id": "-NgU3Jf6u4UEsAhC99aF",
+      "name": "Maquillage Permanent Et Semi-permanent",
+      "description": null,
+      "sort": 13,
+      "servicesCount": 1,
+      "services": [
+        {
+          "id": "-OOriCZ9Kp4Sy5c4nYBq",
+          "name": "Microblading Sourcils (étude de la courbe, épilation, morpho-correction) + 2 retouches offertes",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "250 €",
+            "type": "fixed",
+            "amount": 250,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        }
+      ]
+    },
+    {
+      "id": "-NgU3WqL1bsddTab4VCw",
+      "name": "Soin Du Visage",
+      "description": null,
+      "sort": 14,
+      "servicesCount": 7,
+      "services": [
+        {
+          "id": "-NgU3qXnXgUZzm0FIFcP",
+          "name": "Soin du visage spécifique et massage",
+          "description": "Ce soin du visage est parfaitement personnalisé aux besoins de votre peau. Ce soin hydratant nettoie votre peau, atténue vos rides et illumine votre teint.\n\nCe soin est particulièrement recommandé si vous souhaitez régénérer votre peau, lui donner un coup d'éclat et la nourrir en profondeur.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-NgU8Xmjftff-FvuL01e",
+          "name": "Soin du visage Anti-âge",
+          "description": "Préservez votre capital jeunesse grâce à ce soin anti-âge.\n\nPour commencer, votre peau est exfoliée afin d'éliminer les impuretés. Parfaitement purifiée, elle est prête à recevoir les bienfaits d'un sérum et d'un masque adaptés à ses besoins. Vous profitez également de manœuvres qui stimulent la circulation sanguine.\n\nVotre peau est lissée et votre teint éclatant !",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NgU8aaWd1w65VP7Ie0u",
+          "name": "Soin du visage et gommage du dos",
+          "description": "Ce soin du visage est parfaitement personnalisé aux besoins de votre peau. Ce soin hydratant nettoie votre peau, atténue vos rides et illumine votre teint.\n\nCe soin est particulièrement recommandé si vous souhaitez régénérer votre peau, lui donner un coup d'éclat et la nourrir en profondeur.",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgU8gKsO_vRTUgwbEsK",
+          "name": "Soin du visage et massage : Forfait 5 séances",
+          "description": "Ce soin du visage est parfaitement personnalisé aux besoins de votre peau. Ce soin hydratant nettoie votre peau, atténue vos rides et illumine votre teint.\n\nCe soin est particulièrement recommandé si vous souhaitez régénérer votre peau, lui donner un coup d'éclat et la nourrir en profondeur.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "250 €",
+            "type": "fixed",
+            "amount": 250,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NgU8ir1mhoUvE1dX75H",
+          "name": "Soin du visage et massage : Forfait 10 séances",
+          "description": "Ce soin du visage est parfaitement personnalisé aux besoins de votre peau. Ce soin hydratant nettoie votre peau, atténue vos rides et illumine votre teint.\n\nCe soin est particulièrement recommandé si vous souhaitez régénérer votre peau, lui donner un coup d'éclat et la nourrir en profondeur.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "450 €",
+            "type": "fixed",
+            "amount": 450,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgU8pT3fL52LTvZl7dV",
+          "name": "Nettoyage de peau",
+          "description": "Ce nettoyage du visage est adapté en fonction de votre type de peau afin de restaurer son équilibre et sa vitalité.\n\nPurifié et parfaitement hydraté, votre visage est radieux !",
+          "duration": "45min",
+          "durationMinutes": 45,
+          "price": {
+            "display": "40 €",
+            "type": "fixed",
+            "amount": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-NgU8xBvEoRfiRLLEed4",
+          "name": "Femme - Soin du visage selon type de peau",
+          "description": "Le massage japonais du visage permet d'améliorer l'état de la peau et de ralentir le processus de vieillissement.\n\nIl englobe à la fois une stimulation des points d'acupuncture, un travail sur les méridiens et un drainage lymphatique. Les résultats sont visibles dès la première séance :\n\nLe visage est libéré de toutes tensions et crispations,\n\n- Il retrouve un aspect plus jeune,\n- Les rides sont moins visibles,\n- L'ovale est mieux dessiné,\n- La peau est repulpée,\n- Le visage est tonifié et les ridules éliminées grâce aux mouvements lents et doux.\n\nVos muscles sont stimulés laissant votre peau lisse et radieuse.",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        }
+      ]
+    },
+    {
+      "id": "-NgToSTCDjkOI-xFN_N3",
+      "name": "Beauté Des Pieds",
+      "description": null,
+      "sort": 18,
+      "servicesCount": 14,
+      "services": [
+        {
+          "id": "-NgTomOlw59VZakoDiG9",
+          "name": "Pieds - Pose de vernis semi-permanent coloré",
+          "description": "Lassée du vernis qui s'écaille ou se raye au moindre geste malencontreux ?\n\nVous allez adorer cette pose de vernis semi-permanent sur ongles naturels, qui s'effectue en seulement quelques étapes :\n\nL'application d'une base qui protège la surface de l'ongle,\nLa pose d'un vernis dont la teinte est choisie en fonction de vos envies et de votre carnation,\nUne finition à l'aide d'un top-coat pour faire briller le vernis et prolonger sa tenue.\n\nUn petit temps de pose sous lampe UV plus tard, vous repartez avec un vernis à ongles impeccable, à la tenue garantie pendant deux à trois semaines sans aucune retouche nécessaire !",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NgTonyAGZ7puXfGMdc9",
+          "name": "Pieds - Pose de vernis semi-permanent French",
+          "description": "Lassée du vernis qui s'écaille ou se raye au moindre geste malencontreux ?\n\nVous allez adorer cette pose de vernis semi-permanent sur ongles naturels, qui s'effectue en seulement quelques étapes :\n\nL'application d'une base qui protège la surface de l'ongle,\nLa pose d'un vernis dont la teinte est choisie en fonction de vos envies et de votre carnation,\nUne finition à l'aide d'un top-coat pour faire briller le vernis et prolonger sa tenue.\n\nUn petit temps de pose sous lampe UV plus tard, vous repartez avec un vernis à ongles impeccable, à la tenue garantie pendant deux à trois semaines sans aucune retouche nécessaire !",
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NgTp16CXgUHbcZln3vz",
+          "name": "Beauté des pieds et pose de vernis coloré",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules,\n- De la pose d'un vernis de la couleur de votre choix.\nÀ vous le plaisir d'arborer des pieds impeccables et joliment colorés !",
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NgTp2KWLjm3D_E7Zary",
+          "name": "Beauté des pieds et pose de vernis French",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules,\n- De la pose d'un vernis de la couleur de votre choix.\nÀ vous le plaisir d'arborer des pieds impeccables et joliment colorés !",
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "40 €",
+            "type": "fixed",
+            "amount": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-NgTpZ6NR2tTlXID2RbQ",
+          "name": "Beauté des pieds et pose de vernis semi-permanent French",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules,\n- De la pose d'un vernis semi-permanent de la couleur de votre choix, à la tenue longue durée.\nÀ vous le plaisir d'arborer des pieds impeccables et joliment colorés pour plusieurs semaines !",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-NgTp_ggxGbSOr0iUO4b",
+          "name": "Beauté des pieds et pose de vernis semi-permanent coloré",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules,\n- De la pose d'un vernis semi-permanent de la couleur de votre choix, à la tenue longue durée.\nÀ vous le plaisir d'arborer des pieds impeccables et joliment colorés pour plusieurs semaines !",
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "50 €",
+            "type": "fixed",
+            "amount": 50,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NgTpkRYJ3Y3y4gzhSe-",
+          "name": "Beauté des pieds et pose de base",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules,\n- De la pose d'un vernis semi-permanent de la couleur de votre choix, à la tenue longue durée.\nÀ vous le plaisir d'arborer des pieds impeccables et joliment colorés pour plusieurs semaines !",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "30 €",
+            "type": "fixed",
+            "amount": 30,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-NgTpw_w_sPTMKt5taik",
+          "name": "Coupe et Limage Ongles des Mains ou Pieds",
+          "description": "Profitez d'un limage des ongles professionnel pour des ongles impeccables.\n\nÀ l'aide d'une lime affûtée, votre spécialiste de la beauté des mains travaille la forme de vos ongles tout en douceur.\n\nVos ongles sont divinement sculptés.",
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-NgTq79hfKhCE1aeQ0dA",
+          "name": "Femme ou homme - beauté de pied sans vernis avec 10mn de modelage",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules.\nÀ vous le plaisir d'arborer des pieds impeccables !",
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-NgTqA-XDZD1vKyUw1Wj",
+          "name": "Femme - Beauté des pieds, pose d'ongles en gel et pose de base",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules.\nÀ vous le plaisir d'arborer des pieds impeccables !",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-NgTqGQhlFw6KNUApGHS",
+          "name": "Femme - Beauté des pieds, pose d'ongles en gel et pose de vernis coloré",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules.\nÀ vous le plaisir d'arborer des pieds impeccables !",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "75 €",
+            "type": "fixed",
+            "amount": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-NgTqGqkS7eYdQl94uv7",
+          "name": "Femme - Beauté des pieds, pose d'ongles en gel et pose de vernis French",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules.\nÀ vous le plaisir d'arborer des pieds impeccables !",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-NgTqPlNnyurV_VZyovT",
+          "name": "Femme - Beauté des pieds, pose d'ongles en gel et pose de vernis semi-permanent coloré",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules.\nÀ vous le plaisir d'arborer des pieds impeccables !",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-NgTqQ4uONG2HxYAZBhK",
+          "name": "Femme - Beauté des pieds, pose d'ongles en gel et pose de vernis semi-permanent French",
+          "description": "Offrez à vos pieds une parenthèse rien que pour eux !\n\nVotre beauté des pieds se compose :\n\n- D'un bain émollient pour adoucir petites peaux et callosités,\n- D'un limage et d'un polissage soigneux de vos ongles qui leur redonnent tout leur éclat,\n- D'un retrait des cuticules.\nÀ vous le plaisir d'arborer des pieds impeccables !",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "85 €",
+            "type": "fixed",
+            "amount": 85,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        }
+      ]
+    },
+    {
+      "id": "-NmpomLMH4kuOD8D8RBZ",
+      "name": "Soin / Curly / Lissage",
+      "description": "Bons plan de la semaine",
+      "sort": 22,
+      "servicesCount": 13,
+      "services": [
+        {
+          "id": "-NmpozBKfAH-IDVI8Dik",
+          "name": "Femme - Lissage Brésilien cheveux cheveux courts au lieu de 150 € ->120€",
+          "description": "Le lissage Brésilien consiste à injecter au cœur du cheveu une solution à base de kératine : l'action de cette protéine naturellement présente dans le cheveu combinée à des plaques chauffantes permet de lisser la chevelure et de la débarrasser des frisottis tout en hydratant et en renforçant la fibre capillaire.\n\nVous profitez ainsi :\n\nD’un shampoing permettant d’ouvrir les écailles du cheveux afin d’absorber la kératine,\nD’une application du soin mèche à mèche,\nD’un rinçage et d’un séchage,\nD’un lissage au fer chauffant,\nD’un soin fixateur permettant de prolonger l’effet du lissage,\nD'un rinçage minutieux,\nD'un séchage délicat.\n\nVotre crinière garde un aspect doux et lisse pendant 2 à 3 mois !",
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "120 €",
+            "type": "fixed",
+            "amount": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-NmppGyNCEBbmACi14N3",
+          "name": "Femme - Lissage Brésilien cheveux cheveux très longs au lieu de 200 € ->170 ( chaque mardi et mercredi uniquement)",
+          "description": "Le lissage Brésilien consiste à injecter au cœur du cheveu une solution à base de kératine : l'action de cette protéine naturellement présente dans le cheveu combinée à des plaques chauffantes permet de lisser la chevelure et de la débarrasser des frisottis tout en hydratant et en renforçant la fibre capillaire.\n\nVous profitez ainsi :\n\nD’un shampoing permettant d’ouvrir les écailles du cheveux afin d’absorber la kératine,\nD’une application du soin mèche à mèche,\nD’un rinçage et d’un séchage,\nD’un lissage au fer chauffant,\nD’un soin fixateur permettant de prolonger l’effet du lissage,\nD'un rinçage minutieux,\nD'un séchage délicat.\n\nVotre crinière garde un aspect doux et lisse pendant 2 à 3 mois !",
+          "duration": "2h 30min",
+          "durationMinutes": 150,
+          "price": {
+            "display": "170 €",
+            "type": "fixed",
+            "amount": 170,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-NmppS4kLF7zsVvfS0fU",
+          "name": "Femme - Lissage Brésilien cheveux cheveux mi-longs au lieu de 160 € ->120 chaque mardi et mercredi",
+          "description": "Le lissage Brésilien consiste à injecter au cœur du cheveu une solution à base de kératine : l'action de cette protéine naturellement présente dans le cheveu combinée à des plaques chauffantes permet de lisser la chevelure et de la débarrasser des frisottis tout en hydratant et en renforçant la fibre capillaire.\n\nVous profitez ainsi :\n\nD’un shampoing permettant d’ouvrir les écailles du cheveux afin d’absorber la kératine,\nD’une application du soin mèche à mèche,\nD’un rinçage et d’un séchage,\nD’un lissage au fer chauffant,\nD’un soin fixateur permettant de prolonger l’effet du lissage,\nD'un rinçage minutieux,\nD'un séchage délicat.\n\nVotre crinière garde un aspect doux et lisse pendant 2 à 3 mois !",
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "120 €",
+            "type": "fixed",
+            "amount": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-NmppXoW0bdedulHHlEh",
+          "name": "Défrisage basic + shampoing + coiffage cheveux courts",
+          "description": null,
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-NmppbWYAZloLwuiOv1Z",
+          "name": "Défrisage basic + shampoing + coiffage cheveux mi-longs",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-Nmpp_7BxKHg5dx0YHB9",
+          "name": "Défrisage basic + shampoing + coiffage cheveux long",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "65 €",
+            "type": "fixed",
+            "amount": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-NmppfWMKBXFVe0OBEwy",
+          "name": "Curly + Coiffage cheveux mi-longs au lieu de 70 € -> 55",
+          "description": null,
+          "duration": "1h 35min",
+          "durationMinutes": 95,
+          "price": {
+            "display": "55 €",
+            "type": "fixed",
+            "amount": 55,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-NmppogZQ-9soR_t9HRX",
+          "name": "Curly + Coiffage cheveux afro courts au lieu de 65 € ->45",
+          "description": null,
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-NmpphVOGabzknuCQ1Be",
+          "name": "Curly + Coiffage cheveux longs au lieu de 80 € -> 60",
+          "description": null,
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-NmpqYcEY_r3hu2ypSqM",
+          "name": "Soin bot cheveux courts au lieu de 130 € ->70",
+          "description": "Envie de cheveux lissés au millimetre près ? Optez pour un lissage au fer !\n\nRéalisé avec savoir-faire, ce lissage discipline les crinières les plus rebelles !\n\nVotre coiffure est impeccable !",
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-NmpqZGuQ_5Ire0SmCur",
+          "name": "Soin bot cheveux mi-longs au lieu de 140 € ->90",
+          "description": "Envie de cheveux lissés au millimetre près ? Optez pour un lissage au fer !\n\nRéalisé avec savoir-faire, ce lissage discipline les crinières les plus rebelles !\n\nVotre coiffure est impeccable !",
+          "duration": "1h 35min",
+          "durationMinutes": 95,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-Nmpq_jQqOXsUhB7BrCg",
+          "name": "Soin bot cheveux longs au lieu de 150 € -> 100",
+          "description": "Envie de cheveux lissés au millimetre près ? Optez pour un lissage au fer !\n\nRéalisé avec savoir-faire, ce lissage discipline les crinières les plus rebelles !\n\nVotre coiffure est impeccable !",
+          "duration": "1h 40min",
+          "durationMinutes": 100,
+          "price": {
+            "display": "100 €",
+            "type": "fixed",
+            "amount": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-NmpqaWxst_njIRMyKTw",
+          "name": "Soin bot cheveux très longs au lieu de 150 € ->110",
+          "description": "Envie de cheveux lissés au millimetre près ? Optez pour un lissage au fer !\n\nRéalisé avec savoir-faire, ce lissage discipline les crinières les plus rebelles !\n\nVotre coiffure est impeccable !",
+          "duration": "1h 40min",
+          "durationMinutes": 100,
+          "price": {
+            "display": "110 €",
+            "type": "fixed",
+            "amount": 110,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        }
+      ]
+    },
+    {
+      "id": "-O2-KcyqcgM0IiDg-6-2",
+      "name": "Locks",
+      "description": "Départ et entretien des locks",
+      "sort": 29,
+      "servicesCount": 51,
+      "services": [
+        {
+          "id": "-O2542yU50Qh0AcNSW8S",
+          "name": "Depart dreadlock twist cheveux courts",
+          "description": null,
+          "duration": "1h 15min",
+          "durationMinutes": 75,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-O5rRzpQfoBz6_1x_170",
+          "name": "Shampoing + reprise Locks twist ",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "à partir de 110 €",
+            "type": "from",
+            "min": 110,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-O5rSKgDdEw0TOLE9uIC",
+          "name": "reprise crochet  interlocking ",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "à partir de 90 €",
+            "type": "from",
+            "min": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-O5rSh6O3XSzexlFdcUS",
+          "name": "reprise crochet broderie ",
+          "description": null,
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "à partir de 100 €",
+            "type": "from",
+            "min": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-OT8DwHXjRxrHX8NZMon",
+          "name": "reprise twist",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "de 70 € à 90 €",
+            "type": "range",
+            "min": 70,
+            "max": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-OT8DxfhOIopj20ViaMe",
+          "name": "reprise twist",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "de 70 € à 90 €",
+            "type": "range",
+            "min": 70,
+            "max": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-OT8DxgajiEut8Th8apU",
+          "name": "reprise twist",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "de 70 € à 90 €",
+            "type": "range",
+            "min": 70,
+            "max": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-OT8EcLgnCazAaAM8nhh",
+          "name": "Depart dreadlock twist cheveux courts",
+          "description": null,
+          "duration": "1h 15min",
+          "durationMinutes": 75,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-OT8EcRH2tp-QPnJFZSg",
+          "name": "Depart dreadlock twist cheveux mi-longs",
+          "description": null,
+          "duration": "1h 45min",
+          "durationMinutes": 105,
+          "price": {
+            "display": "160 €",
+            "type": "fixed",
+            "amount": 160,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-OT8ExiifdMNkWt7SucF",
+          "name": "Depart dreadlock twist cheveux mi-longs",
+          "description": null,
+          "duration": "1h 45min",
+          "durationMinutes": 105,
+          "price": {
+            "display": "160 €",
+            "type": "fixed",
+            "amount": 160,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-OT8ExoWXymCkh19m66X",
+          "name": "Depart dreadlock twist cheveux longs",
+          "description": null,
+          "duration": "2h 15min",
+          "durationMinutes": 135,
+          "price": {
+            "display": "300 €",
+            "type": "fixed",
+            "amount": 300,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-OT8FNTnO347oI9byLiB",
+          "name": "Depart dreadlock avec crochet broderie cheveux court",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "180 €",
+            "type": "fixed",
+            "amount": 180,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-OT8FOktypIsw1RhB43S",
+          "name": "Depart dreadlock twist cheveux longs",
+          "description": null,
+          "duration": "2h 15min",
+          "durationMinutes": 135,
+          "price": {
+            "display": "300 €",
+            "type": "fixed",
+            "amount": 300,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OT8FOlRSUzO7sabWa2f",
+          "name": "Depart dreadlock twist cheveux longs",
+          "description": null,
+          "duration": "2h 15min",
+          "durationMinutes": 135,
+          "price": {
+            "display": "300 €",
+            "type": "fixed",
+            "amount": 300,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OT8FOlma1zzv2Le0KJs",
+          "name": "Depart dreadlock twist cheveux longs",
+          "description": null,
+          "duration": "2h 15min",
+          "durationMinutes": 135,
+          "price": {
+            "display": "300 €",
+            "type": "fixed",
+            "amount": 300,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OT8FOm5op7uPzIec6JE",
+          "name": "Depart dreadlock twist cheveux longs",
+          "description": null,
+          "duration": "2h 15min",
+          "durationMinutes": 135,
+          "price": {
+            "display": "300 €",
+            "type": "fixed",
+            "amount": 300,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OT8GGHcqaxJ8n1HxWUX",
+          "name": "Depart dreadlock avec crochet broderie cheveux longs",
+          "description": null,
+          "duration": "3h 15min",
+          "durationMinutes": 195,
+          "price": {
+            "display": "600 €",
+            "type": "fixed",
+            "amount": 600,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-OT8GGIOAbRruZ50Ir1K",
+          "name": "Depart dreadlock avec crochet broderie cheveux mi-longs",
+          "description": null,
+          "duration": "2h 15min",
+          "durationMinutes": 135,
+          "price": {
+            "display": "320 €",
+            "type": "fixed",
+            "amount": 320,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-OT8GHWZujCigcjcP48p",
+          "name": "reprise ou entretien  dreadlock twist  demi-tète",
+          "description": null,
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-OT8GHWqA28OeloIe7fb",
+          "name": "Depart dreadlock avec crochet broderie cheveux court",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "180 €",
+            "type": "fixed",
+            "amount": 180,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-OT8IqOzSFcJC-AhsGW4",
+          "name": "reprise ou entretien  dreadlock twist  demi-tète entière",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "120 €",
+            "type": "fixed",
+            "amount": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        },
+        {
+          "id": "-OT8IqTuRBfxjcuFLKVX",
+          "name": "reprise ou entretien  dreadlock twist  cheveux longs",
+          "description": null,
+          "duration": "50min",
+          "durationMinutes": 50,
+          "price": {
+            "display": "150 €",
+            "type": "fixed",
+            "amount": 150,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 16
+        },
+        {
+          "id": "-OT8K7hs_ZQbr3XGhBTb",
+          "name": "reprise ou entretien  dreadlock -crochet latching  demi-tète ",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "120 €",
+            "type": "fixed",
+            "amount": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 17
+        },
+        {
+          "id": "-OT8K7nFNphjNG6c5QYt",
+          "name": "reprise ou entretien  dreadlock twist  demi-tète entière",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "120 €",
+            "type": "fixed",
+            "amount": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 18
+        },
+        {
+          "id": "-OT8L403MSgYZpQMkw2D",
+          "name": "reprise ou entretien  dreadlock -crochet latching tète entiere",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "170 €",
+            "type": "fixed",
+            "amount": 170,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 19
+        },
+        {
+          "id": "-OT8LnsESQ4_-fn9qRka",
+          "name": "reprise ou entretien  dreadlock -crochet latching cheveux longs",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "190 €",
+            "type": "fixed",
+            "amount": 190,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        },
+        {
+          "id": "-OT8LnxGEsS6SQRuorS9",
+          "name": "reprise ou entretien  dreadlock -crochet latching tète entiere",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "170 €",
+            "type": "fixed",
+            "amount": 170,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 21
+        },
+        {
+          "id": "-OT8MmH8v74bVaYOEKMz",
+          "name": "départ micro locks -twist cheveux courts",
+          "description": null,
+          "duration": "3h 40min",
+          "durationMinutes": 220,
+          "price": {
+            "display": "450 €",
+            "type": "fixed",
+            "amount": 450,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 22
+        },
+        {
+          "id": "-OT8MmMgJkPTnN7AYk5n",
+          "name": "reprise ou entretien  dreadlock -crochet latching tète entiere",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "170 €",
+            "type": "fixed",
+            "amount": 170,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 23
+        },
+        {
+          "id": "-OT8NcluP2bljkaPUVy3",
+          "name": "départ micro locks -twist cheveux courts",
+          "description": null,
+          "duration": "3h 40min",
+          "durationMinutes": 220,
+          "price": {
+            "display": "450 €",
+            "type": "fixed",
+            "amount": 450,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 24
+        },
+        {
+          "id": "-OT8NcrW_gGYWylu7_ah",
+          "name": "départ micro locks -twist cheveux longs",
+          "description": null,
+          "duration": "4h 30min",
+          "durationMinutes": 270,
+          "price": {
+            "display": "700 €",
+            "type": "fixed",
+            "amount": 700,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 25
+        },
+        {
+          "id": "-OT8O0fVN5EHqxgKWDvZ",
+          "name": "départ micro locks-crochet cheveux court",
+          "description": null,
+          "duration": "3h 45min",
+          "durationMinutes": 225,
+          "price": {
+            "display": "550 €",
+            "type": "fixed",
+            "amount": 550,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 26
+        },
+        {
+          "id": "-OT8O0gF0qFrTCUcF7OZ",
+          "name": "départ micro locks -twist cheveux mi-long",
+          "description": null,
+          "duration": "4h 30min",
+          "durationMinutes": 270,
+          "price": {
+            "display": "650 €",
+            "type": "fixed",
+            "amount": 650,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 26
+        },
+        {
+          "id": "-OT8OnPTeOpbkntsEiUb",
+          "name": "départ micro locks -twist cheveux courts",
+          "description": null,
+          "duration": "3h 40min",
+          "durationMinutes": 220,
+          "price": {
+            "display": "450 €",
+            "type": "fixed",
+            "amount": 450,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 27
+        },
+        {
+          "id": "-OT8OontK-XpEB2Sz_T8",
+          "name": "départ micro locks -twist cheveux courts",
+          "description": null,
+          "duration": "3h 40min",
+          "durationMinutes": 220,
+          "price": {
+            "display": "450 €",
+            "type": "fixed",
+            "amount": 450,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 28
+        },
+        {
+          "id": "-OT8Ppf6sU_-ydepACx7",
+          "name": "départ micro locks-crochet cheveux court",
+          "description": null,
+          "duration": "3h 45min",
+          "durationMinutes": 225,
+          "price": {
+            "display": "550 €",
+            "type": "fixed",
+            "amount": 550,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 29
+        },
+        {
+          "id": "-OT8PpfOXjp7U_ItGOgD",
+          "name": "départ micro locks-crochet cheveux mi-longs",
+          "description": null,
+          "duration": "4h 35min",
+          "durationMinutes": 275,
+          "price": {
+            "display": "700 €",
+            "type": "fixed",
+            "amount": 700,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 29
+        },
+        {
+          "id": "-OT8QFypm3d4Dvk5kBt7",
+          "name": "départ micro micro twist cheveux court",
+          "description": null,
+          "duration": "3h 45min",
+          "durationMinutes": 225,
+          "price": {
+            "display": "450 €",
+            "type": "fixed",
+            "amount": 450,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 30
+        },
+        {
+          "id": "-OT8QG3_Ez0-ru3fsbv8",
+          "name": "départ micro twist-twist cheveux mi-longs",
+          "description": null,
+          "duration": "4h 35min",
+          "durationMinutes": 275,
+          "price": {
+            "display": "650 €",
+            "type": "fixed",
+            "amount": 650,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 31
+        },
+        {
+          "id": "-OT8RN_JrP7p-U1jn8iv",
+          "name": "départ micro twist-crochet cheveux courts",
+          "description": null,
+          "duration": "3h 45min",
+          "durationMinutes": 225,
+          "price": {
+            "display": "550 €",
+            "type": "fixed",
+            "amount": 550,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 32
+        },
+        {
+          "id": "-OT8RNc0XpgdWDThJF94",
+          "name": "départ micro twist-twist cheveux mi-longs",
+          "description": null,
+          "duration": "4h 35min",
+          "durationMinutes": 275,
+          "price": {
+            "display": "650 €",
+            "type": "fixed",
+            "amount": 650,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 33
+        },
+        {
+          "id": "-OT8SScwd39Hbao5mUBQ",
+          "name": "départ micro twist-crochet cheveux mi-longs",
+          "description": null,
+          "duration": "4h 35min",
+          "durationMinutes": 275,
+          "price": {
+            "display": "700 €",
+            "type": "fixed",
+            "amount": 700,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 34
+        },
+        {
+          "id": "-OT8SSiJLKjWBuqcxYov",
+          "name": "départ micro twist-crochet cheveux courts",
+          "description": null,
+          "duration": "3h 45min",
+          "durationMinutes": 225,
+          "price": {
+            "display": "550 €",
+            "type": "fixed",
+            "amount": 550,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 35
+        },
+        {
+          "id": "-OT8T1MH8zZ5fDVCzkaz",
+          "name": "Réparation dreadlocks-10 locks",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "30 €",
+            "type": "fixed",
+            "amount": 30,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 36
+        },
+        {
+          "id": "-OT8T1SDZDw9uUPmv_Wq",
+          "name": "pose extensions drealocks-extension salon 8-pouces 50 tiges",
+          "description": null,
+          "duration": "2h",
+          "durationMinutes": 120,
+          "price": {
+            "display": "350 €",
+            "type": "fixed",
+            "amount": 350,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 37
+        },
+        {
+          "id": "-OT8Upax-EQH5NBJeIlO",
+          "name": "pose extensions drealocks-extension salon 10-pouces 80 tiges",
+          "description": null,
+          "duration": "2h 30min",
+          "durationMinutes": 150,
+          "price": {
+            "display": "350 €",
+            "type": "fixed",
+            "amount": 350,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 38
+        },
+        {
+          "id": "-OT8UpgVF8-G-PBOoaPs",
+          "name": "pose extensions drealocks-extension salon 10-pouces 80 tiges",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "450 €",
+            "type": "fixed",
+            "amount": 450,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 39
+        },
+        {
+          "id": "-OT8UrDGAa01UkjP3hkY",
+          "name": "pose extensions drealocks-extension salon15-pouces 70 tiges",
+          "description": null,
+          "duration": "2h 30min",
+          "durationMinutes": 150,
+          "price": {
+            "display": "550 €",
+            "type": "fixed",
+            "amount": 550,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 40
+        },
+        {
+          "id": "-OT8UsScAercCxU8hhbZ",
+          "name": "pose extensions drealocks-extension salon 20-pouces 100 tiges",
+          "description": null,
+          "duration": "3h 30min",
+          "durationMinutes": 210,
+          "price": {
+            "display": "1200 €",
+            "type": "fixed",
+            "amount": 1200,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 41
+        },
+        {
+          "id": "-OT8UsSvM7xMrkEH_KF-",
+          "name": "pose extensions drealocks-extension salon 20-pouces 80 tiges",
+          "description": null,
+          "duration": "2h 45min",
+          "durationMinutes": 165,
+          "price": {
+            "display": "750 €",
+            "type": "fixed",
+            "amount": 750,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 41
+        },
+        {
+          "id": "-OT8XsQ993DTtqIWG3Rk",
+          "name": "Shampoing  simple",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "40 €",
+            "type": "fixed",
+            "amount": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 42
+        }
+      ]
+    },
+    {
+      "id": "-OWyzd_azFT6QuVFrNKE",
+      "name": "Femme Forfait Épilation À La Cire",
+      "description": "Offrez-vous une épilation impeccable avec une épilation à la cire chaude !\n\nÉtalée à l'aide d'une spatule et retirée dans le sens inverse des poils, la cire chaude offre :\n\n- Un résultat longue durée,\n- Une efficacité indéniable sur toutes les parties du corps.\n\nÀ vous la peau douce et lisse pendant trois semaines !",
+      "sort": 32,
+      "servicesCount": 24,
+      "services": [
+        {
+          "id": "-OWyzfD09vRZ1aq5LsgJ",
+          "name": "Maillot échancré Femme",
+          "description": null,
+          "duration": "20min",
+          "durationMinutes": 20,
+          "price": {
+            "display": "25 €",
+            "type": "fixed",
+            "amount": 25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-OWyzhtoOpJITjr60LiC",
+          "name": "Forfait Femme - Épilation à la cire : Demi-jambes + maillot ou essailles",
+          "description": null,
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "45 €",
+            "type": "fixed",
+            "amount": 45,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-OWyzkiAU0VEe1DCCmUe",
+          "name": "Femme - Épilation à la cire :demi jambe",
+          "description": null,
+          "duration": "20min",
+          "durationMinutes": 20,
+          "price": {
+            "display": "20 €",
+            "type": "fixed",
+            "amount": 20,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-OWyzmH0VWCWpx1hdK0z",
+          "name": "Forfait Femme - Épilation à la cire : Aisselles + Maillot",
+          "description": null,
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "25 €",
+            "type": "fixed",
+            "amount": 25,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-OWyznqXIXY5YGe9SEkQ",
+          "name": "Femme - Épilation à la cire : Sourcils - Création de ligne",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "12 €",
+            "type": "fixed",
+            "amount": 12,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-OWyzpGvroTu58IIkwUM",
+          "name": "Femme - Épilation à la cire : Sourcils",
+          "description": null,
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-OWyzqgASkLrhpLcUqx1",
+          "name": "Femme - Épilation à la cire : Sourcils et lèvres",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-OWyzsAHChU6YkezwAYD",
+          "name": "Femme - Épilation à la cire : Sourcils et menton",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-OWyztanpGk9PXETcmb1",
+          "name": "Forfait Femme - Épilation à la cire : Sourcils, lèvres et menton",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-OWyzv0bIgnBzvMkoRj0",
+          "name": "Femme - Épilation à la cire : Lèvres",
+          "description": null,
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "5 €",
+            "type": "fixed",
+            "amount": 5,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-OWyzwZUKVYsp0aJnirP",
+          "name": "Femme - Épilation à la cire : Menton",
+          "description": null,
+          "duration": "10min",
+          "durationMinutes": 10,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-OWyzy-KBiUOtqOFQsPj",
+          "name": "Femme - Épilation à la cire : Joues",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "10 €",
+            "type": "fixed",
+            "amount": 10,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OWyzzTTh6cVb0tL1WtV",
+          "name": "Femme - Épilation à la cire : Visage complet",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "22 €",
+            "type": "fixed",
+            "amount": 22,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-OWz-0-MK3IPPwrAdTvD",
+          "name": "Femme - Épilation à la cire : Maillot intégral et sillon interfessier",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "40 €",
+            "type": "fixed",
+            "amount": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-OWz-1VaqPo1waG4k9yv",
+          "name": "Femme - Épilation à la cire : Fesses",
+          "description": null,
+          "duration": "20min",
+          "durationMinutes": 20,
+          "price": {
+            "display": "12 €",
+            "type": "fixed",
+            "amount": 12,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        },
+        {
+          "id": "-OWz-3E55zpcklrd9bZq",
+          "name": "Femme - Épilation à la cire : Maillot semi-intégral et sillon interfessier",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 16
+        },
+        {
+          "id": "-OWz-60H9g5H25DVAS8c",
+          "name": "Femme Forfait - Épilation à la cire Jambes entières +Maillot intégral ou Aisselles",
+          "description": null,
+          "duration": "55min",
+          "durationMinutes": 55,
+          "price": {
+            "display": "50 €",
+            "type": "fixed",
+            "amount": 50,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 17
+        },
+        {
+          "id": "-OWz-7WgwiLOWB96rMJy",
+          "name": "Femme - Épilation à la cire : Jambes complètes",
+          "description": null,
+          "duration": "40min",
+          "durationMinutes": 40,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 18
+        },
+        {
+          "id": "-OWz-AWv55znIn90n8jy",
+          "name": "Femme - Épilation à la cire : Forfait Jambes complètes,+ maillot intégral + aisselles",
+          "description": null,
+          "duration": "55min",
+          "durationMinutes": 55,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        },
+        {
+          "id": "-OWz-C0mw3UsXQW7RLMp",
+          "name": "Femme - Épilation à la cire : Aisselles",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 21
+        },
+        {
+          "id": "-OWz-CGO-mqE_33AOpe7",
+          "name": "Femme - Épilation à la cire : Demi-bras",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 22
+        },
+        {
+          "id": "-OX8MPBHKBeT7Qo2zpEc",
+          "name": "Femme - Epilation Bras Entier ",
+          "description": null,
+          "duration": "20min",
+          "durationMinutes": 20,
+          "price": {
+            "display": "28 €",
+            "type": "fixed",
+            "amount": 28,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 23
+        },
+        {
+          "id": "-OX8MYdiG7-aL-1hE2OB",
+          "name": "Femme - Epilation Cuisse",
+          "description": null,
+          "duration": "15min",
+          "durationMinutes": 15,
+          "price": {
+            "display": "20 €",
+            "type": "fixed",
+            "amount": 20,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 24
+        },
+        {
+          "id": "-OXcev9kj9_8iQlyyyEW",
+          "name": "Femme - Épilation à la cire : Maillot semi-intégral et sillon interfessier",
+          "description": null,
+          "duration": "30min",
+          "durationMinutes": 30,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 25
+        }
+      ]
+    },
+    {
+      "id": "-OaV7iA4o1zglIrxV6_8",
+      "name": "Afro & Metisse",
+      "description": null,
+      "sort": 37,
+      "servicesCount": 13,
+      "services": [
+        {
+          "id": "-OaV8N8BZ6n9fMheE9-k",
+          "name": "Couleur complète + shampoing + soin + brushing finition plaque cheveux courts",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "75 €",
+            "type": "fixed",
+            "amount": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-OaV8RV2d-vzgkyBa2Hx",
+          "name": "Couleur complète + shampoing + soin + brushing finition plaque cheveux mi-longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "85 €",
+            "type": "fixed",
+            "amount": 85,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-OaV9sJk2kikf59r_tXv",
+          "name": "Couleur complète + shampoing + soin + brushing finition plaque cheveux long",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "95 €",
+            "type": "fixed",
+            "amount": 95,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-OaVA24FSHJ0CNc0Fcw4",
+          "name": "Couleur racine + shampoing + soin + brushing finition plaque cheveux courts",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-OaVAViQbXIzSPfakKvY",
+          "name": "Couleur racine + shampoing + soin + brushing finition plaque cheveux mi-longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-OaVAlsK-qiIzSy8viKW",
+          "name": "Couleur racine + shampoing + soin + brushing finition plaque cheveux long",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-OaVBZRlxlQe7MydlyWC",
+          "name": "Couleur compète + shampoing + soin + brushing finition plaque + coupe de pointe simple cheveux courts",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "85 €",
+            "type": "fixed",
+            "amount": 85,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-OaVFIumaGfMmeW1UhaV",
+          "name": "Couleur compète + shampoing + soin + brushing finition plaque + coupe de pointe simple cheveux mi-longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "95 €",
+            "type": "fixed",
+            "amount": 95,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-OaVFgLDt8xtVA4GUJVV",
+          "name": "Couleur compète + shampoing + soin + brushing finition plaque + coupe de pointe simple cheveux long",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "105 €",
+            "type": "fixed",
+            "amount": 105,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-OaVGHMqJEUdUKTx2oGQ",
+          "name": "Couleur racine + shampoing + soin + brushing finition plaque + coupe de pointe simple cheveux courts",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-OaVGZK6Up1JFg6PaYCY",
+          "name": "Couleur racine + shampoing + soin + brushing finition plaque + coupe de pointe simple cheveux mi-longs",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-OaVGrbZ-_NXqZ_gqjCq",
+          "name": "Couleur racine + shampoing + soin + brushing finition plaque + coupe de pointe simple cheveux long",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "100 €",
+            "type": "fixed",
+            "amount": 100,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OaZJbMOpPJXQMLNEONn",
+          "name": "Shampoing + brushing simple",
+          "description": null,
+          "duration": "1h 30min",
+          "durationMinutes": 90,
+          "price": {
+            "display": "40 €",
+            "type": "fixed",
+            "amount": 40,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        }
+      ]
+    },
+    {
+      "id": "-OlLlN1dqVftrGE9D47T",
+      "name": "TISSAGES",
+      "description": null,
+      "sort": 38,
+      "servicesCount": 20,
+      "services": [
+        {
+          "id": "-OlLlfsUb0H4JWlXkGQZ",
+          "name": "Tissage ouvert simple",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "75 €",
+            "type": "fixed",
+            "amount": 75,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 1
+        },
+        {
+          "id": "-OlLlnXYMhNA2_uL7J8d",
+          "name": "Tissage ouvert avec boucle",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 2
+        },
+        {
+          "id": "-OlLlsoThNGTtC8PgUo3",
+          "name": "Flip Over",
+          "description": null,
+          "duration": "1h 40min",
+          "durationMinutes": 100,
+          "price": {
+            "display": "85 €",
+            "type": "fixed",
+            "amount": 85,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 3
+        },
+        {
+          "id": "-OlLm1AGQg-NClpNskcT",
+          "name": "Tissage Closure",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 4
+        },
+        {
+          "id": "-OlLm6jZ9LL9VqpSPy01",
+          "name": "Tissage closure large",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "85 €",
+            "type": "fixed",
+            "amount": 85,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 5
+        },
+        {
+          "id": "-OlLmq8aFJVb9KI2Iwkg",
+          "name": "Cassie Braid ( QUICK WEAVE / TISSAGE )",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 6
+        },
+        {
+          "id": "-OlLo7AJGEUGqql6QGay",
+          "name": "Boss Lady Hair ",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "95 €",
+            "type": "fixed",
+            "amount": 95,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 7
+        },
+        {
+          "id": "-OlLpEnMcVWaIVrDD-d6",
+          "name": "Tissage fermé",
+          "description": "Avec boucle supplément 25€.",
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 8
+        },
+        {
+          "id": "-OlLpaZkgdFbZvbK8hXd",
+          "name": "Tissage multi raie",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "80 €",
+            "type": "fixed",
+            "amount": 80,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 9
+        },
+        {
+          "id": "-OlLpiCCkbWo0m4g3xXl",
+          "name": "Tissage Lace frontal ",
+          "description": null,
+          "duration": "2h 40min",
+          "durationMinutes": 160,
+          "price": {
+            "display": "120 €",
+            "type": "fixed",
+            "amount": 120,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 10
+        },
+        {
+          "id": "-OlLpqdEQSfnK7PWkBLj",
+          "name": "Tissage Lace 360",
+          "description": null,
+          "duration": "1h",
+          "durationMinutes": 60,
+          "price": {
+            "display": "140 €",
+            "type": "fixed",
+            "amount": 140,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 11
+        },
+        {
+          "id": "-OlLpz5SuRcIA7ljXFgC",
+          "name": "Tissage faux middle part",
+          "description": null,
+          "duration": "1h 10min",
+          "durationMinutes": 70,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 12
+        },
+        {
+          "id": "-OlLqEpY8T_VPBCJvMUD",
+          "name": "Customisation Lace / Perruque",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "35 €",
+            "type": "fixed",
+            "amount": 35,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 13
+        },
+        {
+          "id": "-OlLqMTrjlivkT71U5ag",
+          "name": "Ponytail",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 14
+        },
+        {
+          "id": "-OlLqRx1pkCun80agxdJ",
+          "name": "Ponytail demi tête ",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "90 €",
+            "type": "fixed",
+            "amount": 90,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 15
+        },
+        {
+          "id": "-OlLqbtAdF5M4bdSrMnO",
+          "name": "Pose de Perruque ( sans colle )",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "60 €",
+            "type": "fixed",
+            "amount": 60,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 16
+        },
+        {
+          "id": "-OlLqh7QeR6br_SC9mvl",
+          "name": "Pose de Perruque avec Colle blanche ",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "70 €",
+            "type": "fixed",
+            "amount": 70,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 17
+        },
+        {
+          "id": "-OlLqs-vPnFjXsA9ASet",
+          "name": "Pose de perruque SPRAY GOT2b",
+          "description": null,
+          "duration": "3h",
+          "durationMinutes": 180,
+          "price": {
+            "display": "65 €",
+            "type": "fixed",
+            "amount": 65,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 18
+        },
+        {
+          "id": "-OlLr0W_iVQ1LVt5nEsG",
+          "name": "Coiffage de Perruque",
+          "description": null,
+          "duration": "1h 20min",
+          "durationMinutes": 80,
+          "price": {
+            "display": "30 €",
+            "type": "fixed",
+            "amount": 30,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 19
+        },
+        {
+          "id": "-OlLrTm9jznVzIZLczVU",
+          "name": "Dépose de Tissage",
+          "description": null,
+          "duration": "25min",
+          "durationMinutes": 25,
+          "price": {
+            "display": "15 €",
+            "type": "fixed",
+            "amount": 15,
+            "currency": "EUR",
+            "onQuotation": false
+          },
+          "bookable": true,
+          "sort": 20
+        }
+      ]
+    }
+  ]
+}
