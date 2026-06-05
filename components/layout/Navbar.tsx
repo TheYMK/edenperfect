@@ -132,7 +132,7 @@ function NavLink({
   return (
     <Link
       href={href}
-      className={`relative group font-inter text-sm tracking-widest uppercase transition-colors duration-500 hover:text-[#B5903E] ${
+      className={`relative group font-inter text-sm font-semibold tracking-widest uppercase transition-colors duration-500 hover:text-[#B5903E] ${
         scrolled ? "text-[#2C2016]" : "text-white"
       }`}
     >

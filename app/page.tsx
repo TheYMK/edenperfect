@@ -1,6 +1,7 @@
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
-import Hero from "@/components/sections/Hero";
+// import Hero from "@/components/sections/Hero";
+import HeroV2 from "@/components/sections/HeroV2";
 import Introduction from "@/components/sections/Introduction";
 import Experience from "@/components/sections/Experience";
 import Testimonials from "@/components/sections/Testimonials";
@@ -12,7 +13,7 @@ export default function Home() {
     <>
       <Navbar />
       <main>
-        <Hero />
+        <HeroV2 />
         <Introduction />
         {/* <Experience /> */}
         {/* <Testimonials /> */}
