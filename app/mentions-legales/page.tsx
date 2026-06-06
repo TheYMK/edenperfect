@@ -21,7 +21,7 @@ const sections = [
   },
   {
     title: "4. Protection des données personnelles (RGPD)",
-    content: `Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, d'opposition et de suppression de vos données personnelles.\n\nLes données collectées via le formulaire de contact sont uniquement utilisées pour répondre à vos demandes et ne sont jamais transmises à des tiers.\n\nPour exercer vos droits, contactez-nous à : contact@edenperfect.fr`,
+    content: `Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, d'opposition et de suppression de vos données personnelles.\n\nLes données collectées via le formulaire de contact sont uniquement utilisées pour répondre à vos demandes et ne sont jamais transmises à des tiers.\n\nPour exercer vos droits, contactez-nous à : edenperfectinstitut@gmail.com`,
   },
   {
     title: "5. Cookies",
@@ -46,8 +46,14 @@ export default function MentionsLegalesPage() {
           <section className="relative h-[40vh] flex items-center justify-center overflow-hidden">
             <div className="absolute inset-0 bg-[rgba(46,30,24,0.95)]" />
             <div className="relative z-10 text-center">
-              <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
-                <h1 className="font-cormorant text-5xl md:text-6xl font-light text-white">Mentions Légales</h1>
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8 }}
+              >
+                <h1 className="font-cormorant text-5xl md:text-6xl font-light text-white">
+                  Mentions Légales
+                </h1>
                 <p className="font-inter text-xs tracking-[0.3em] uppercase text-[#B5903E] mt-3">
                   Politique de confidentialité & RGPD
                 </p>
@@ -72,7 +78,8 @@ export default function MentionsLegalesPage() {
                 <div className="pt-8">
                   <GoldSeparator />
                   <p className="text-center mt-6 font-inter text-xs text-[rgba(44,32,22,0.35)]">
-                    © {new Date().getFullYear()} Eden Perfect Institut de Beauté · Paris 2ème
+                    © {new Date().getFullYear()} Eden Perfect Institut de Beauté
+                    · Paris 2ème
                   </p>
                 </div>
               </div>
