@@ -2,9 +2,9 @@ import Image from "next/image";
 
 const SIZES = {
   nav: {
-    width: 80,
-    height: 80,
-    className: "h-14 w-14 sm:h-16 sm:w-16",
+    width: 100,
+    height: 100,
+    className: "h-16 w-16 sm:h-20 sm:w-20",
   },
   footer: {
     width: 160,

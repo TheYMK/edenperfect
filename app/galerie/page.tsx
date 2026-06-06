@@ -20,7 +20,6 @@ const images = [
     alt: "Coiffure élégante",
     category: "Coiffure",
   },
-  { src: "/images/gallery/5.jpg", alt: "Curly bob", category: "Coiffure" },
   {
     src: "/images/gallery/6.jpg",
     alt: "Tresses africaines",
@@ -31,17 +30,17 @@ const images = [
     alt: "Coiffure sur mesure",
     category: "Coiffure",
   },
-  {
-    src: "/images/gallery/8.jpg",
-    alt: "Tresses tendance",
-    category: "Tresses",
-  },
+  // {
+  //   src: "/images/gallery/8.jpg",
+  //   alt: "Tresses tendance",
+  //   category: "Tresses",
+  // },
   { src: "/images/gallery/9.jpg", alt: "Coupe stylée", category: "Coiffure" },
-  {
-    src: "/images/gallery/10.jpg",
-    alt: "Coiffure naturelle",
-    category: "Coiffure",
-  },
+  // {
+  //   src: "/images/gallery/10.jpg",
+  //   alt: "Coiffure naturelle",
+  //   category: "Coiffure",
+  // },
   {
     src: "/images/gallery/11.jpg",
     alt: "Tresses créatives",
@@ -115,9 +114,9 @@ export default function GaleriePage() {
                         <div className="w-12 h-12 rounded-full border border-[#B5903E] flex items-center justify-center">
                           <ZoomIn size={18} className="text-[#B5903E]" />
                         </div>
-                        <span className="font-inter text-xs tracking-widest uppercase text-[#B5903E]">
+                        {/* <span className="font-inter text-xs tracking-widest uppercase text-[#B5903E]">
                           {image.category}
-                        </span>
+                        </span> */}
                       </div>
                     </div>
                     <div className="absolute inset-0 border border-[rgba(181,144,62,0)] group-hover:border-[rgba(181,144,62,0.4)] rounded-2xl transition-all duration-400 pointer-events-none" />
@@ -159,12 +158,12 @@ export default function GaleriePage() {
                     className="w-full max-h-[80vh] object-contain rounded-2xl"
                   />
                   <div className="text-center mt-4">
-                    <p className="font-cormorant text-xl text-white">
+                    {/* <p className="font-cormorant text-xl text-white">
                       {selected.alt}
-                    </p>
-                    <p className="font-inter text-xs tracking-widest uppercase text-[#B5903E] mt-1">
+                    </p> */}
+                    {/* <p className="font-inter text-xs tracking-widest uppercase text-[#B5903E] mt-1">
                       {selected.category}
-                    </p>
+                    </p> */}
                   </div>
                 </motion.div>
               </motion.div>

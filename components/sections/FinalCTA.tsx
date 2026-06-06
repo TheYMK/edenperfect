@@ -93,7 +93,7 @@ export default function FinalCTA() {
                   (text) => (
                     <div key={text} className="flex items-center gap-2">
                       <div className="w-1.5 h-1.5 rounded-full bg-[#D4A574]" />
-                      <span className="font-inter text-xs text-white/50 tracking-wide">
+                      <span className="font-inter text-sm text-white/50 tracking-wide">
                         {text}
                       </span>
                     </div>

@@ -85,32 +85,31 @@ export default function AProposPage() {
                 <AnimatedSection direction="left">
                   <div className="relative rounded-3xl overflow-hidden h-[500px]">
                     <img
-                      src="/images/unnamed-2.png"
+                      src="/images/salon/dbcab405-abc3-47d4-bac4-bb90fe9dda15.JPG"
                       alt="Institut Eden Perfect"
                       className="w-full h-full object-cover"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-[rgba(46,30,24,0.6)] to-transparent" />
-                    <div className="absolute bottom-6 left-6 right-6">
+                    {/* <div className="absolute bottom-6 left-6 right-6">
                       <p className="font-cormorant text-2xl italic text-[#B5903E]">
                         &ldquo;L&apos;excellence est notre signature&rdquo;
                       </p>
-                    </div>
+                    </div> */}
                   </div>
                 </AnimatedSection>
 
                 <AnimatedSection direction="right" delay={0.2}>
                   <div>
-                    <span className="font-inter text-[10px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
+                    <span className="font-inter text-[12px] font-bold tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
                       Notre Histoire
                     </span>
-                    <h2 className="font-cormorant text-4xl md:text-5xl font-light text-[#2C2016] mb-6 leading-tight">
+                    <h2 className="font-cormorant text-4xl md:text-5xl font-bold text-[#2C2016] mb-6 leading-tight">
                       Né d&apos;une passion pour
                       <br />
                       <em className="not-italic text-[#B5903E]">
                         la beauté parisienne
                       </em>
                     </h2>
-                    <p className="font-inter text-sm text-[rgba(44,32,22,0.65)] leading-relaxed mb-6">
+                    <p className="font-inter text-md font-medium text-[rgba(44,32,22,0.65)] leading-relaxed mb-6">
                       Eden Perfect est né d&apos;un rêve : créer un espace où la
                       beauté rencontre l&apos;art, où chaque cliente est traitée
                       avec l&apos;attention d&apos;une invitée de marque. Depuis
@@ -118,7 +117,7 @@ export default function AProposPage() {
                       nous avons cultivé une réputation d&apos;excellence et de
                       savoir-faire.
                     </p>
-                    <p className="font-inter text-sm text-[rgba(44,32,22,0.65)] leading-relaxed mb-8">
+                    <p className="font-inter text-md font-medium text-[rgba(44,32,22,0.65)] leading-relaxed mb-8">
                       Notre équipe passionnée maîtrise les techniques les plus
                       avancées de coiffure afro, de soins visage,
                       d&apos;onglerie et de bien-être, tout en restant à
@@ -141,17 +140,17 @@ export default function AProposPage() {
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-24">
                 <AnimatedSection direction="left" delay={0.1}>
                   <div>
-                    <span className="font-inter text-[10px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
+                    <span className="font-inter text-[12px] font-bold tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
                       Notre Philosophie
                     </span>
-                    <h2 className="font-cormorant text-4xl md:text-5xl font-light text-[#2C2016] mb-6 leading-tight">
+                    <h2 className="font-cormorant text-4xl md:text-5xl font-bold text-[#2C2016] mb-6 leading-tight">
                       La beauté comme
                       <br />
                       <em className="not-italic text-[#B5903E]">
                         art de vivre
                       </em>
                     </h2>
-                    <p className="font-inter text-sm text-[rgba(44,32,22,0.65)] leading-relaxed mb-6">
+                    <p className="font-inter text-md font-medium text-[rgba(44,32,22,0.65)] leading-relaxed mb-6">
                       Chez Eden Perfect, nous croyons que la beauté est bien
                       plus qu&apos;une apparence — c&apos;est une façon
                       d&apos;être, de se sentir bien dans sa peau et de rayonner
@@ -167,7 +166,7 @@ export default function AProposPage() {
                       ].map((v) => (
                         <div key={v} className="flex items-center gap-4">
                           <div className="w-8 h-px bg-[#B5903E]" />
-                          <span className="font-inter text-sm text-[rgba(44,32,22,0.7)] tracking-wide">
+                          <span className="font-inter text-md font-medium text-[rgba(44,32,22,0.7)] tracking-wide">
                             {v}
                           </span>
                         </div>
@@ -179,11 +178,10 @@ export default function AProposPage() {
                 <AnimatedSection direction="right" delay={0.2}>
                   <div className="relative rounded-3xl overflow-hidden h-[500px]">
                     <img
-                      src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800&q=80"
+                      src="/images/salon/030c9e39-b752-47e3-a716-c2df2c7c3b4f.JPG"
                       alt="Philosophie Eden Perfect"
                       className="w-full h-full object-cover"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-[rgba(46,30,24,0.5)] to-transparent" />
                   </div>
                 </AnimatedSection>
               </div>

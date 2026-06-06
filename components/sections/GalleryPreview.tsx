@@ -26,7 +26,7 @@ const images = [
     span: "col-span-1 row-span-1",
   },
   {
-    src: "/images/gallery/5.jpg",
+    src: "/images/gallery/7.jpg",
     alt: "Curly bob",
     span: "col-span-1 row-span-1",
   },
