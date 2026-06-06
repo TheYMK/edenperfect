@@ -1,8 +1,7 @@
 "use client";
 
-import { useState } from "react";
 import { motion } from "framer-motion";
-import { MapPin, Phone, Mail, Clock, Send } from "lucide-react";
+import { MapPin, Phone, Mail, Clock } from "lucide-react";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import AnimatedSection from "@/components/ui/AnimatedSection";
@@ -10,19 +9,6 @@ import GoldSeparator from "@/components/ui/GoldSeparator";
 import { BUSINESS_INFO } from "@/lib/constants";
 
 export default function ContactPage() {
-  const [form, setForm] = useState({
-    name: "",
-    email: "",
-    subject: "",
-    message: "",
-  });
-  const [sent, setSent] = useState(false);
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    setSent(true);
-  };
-
   return (
     <>
       <Navbar />
@@ -56,18 +42,32 @@ export default function ContactPage() {
             <div className="max-w-7xl mx-auto px-6">
               <GoldSeparator className="mb-16" />
 
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
-                {/* Contact info */}
-                <AnimatedSection direction="left">
-                  <div>
-                    <span className="font-inter text-[10px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
-                      Informations
-                    </span>
-                    <h2 className="font-cormorant text-4xl md:text-5xl font-light text-[#2C2016] mb-8 leading-tight">
-                      Venez nous rendre visite
-                    </h2>
+              <AnimatedSection>
+                <div className="text-center mb-12">
+                  <span className="font-inter text-[10px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
+                    Informations
+                  </span>
+                  <h2 className="font-cormorant text-4xl md:text-5xl font-light text-[#2C2016] leading-tight">
+                    Venez nous rendre visite
+                  </h2>
+                </div>
+              </AnimatedSection>
 
-                    <div className="space-y-6">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+                {/* Contact details */}
+                <AnimatedSection direction="left">
+                  <div
+                    className="h-full p-6 md:p-8 rounded-2xl"
+                    style={{
+                      border: "1px solid rgba(181,144,62,0.12)",
+                      background: "rgba(181,144,62,0.02)",
+                    }}
+                  >
+                    <span className="font-inter text-[10px] tracking-[0.3em] uppercase text-[rgba(44,32,22,0.4)] block mb-6">
+                      Coordonnées
+                    </span>
+
+                    <div className="space-y-5">
                       {[
                         {
                           icon: MapPin,
@@ -88,15 +88,8 @@ export default function ContactPage() {
                           link: `mailto:${BUSINESS_INFO.email}`,
                         },
                       ].map(({ icon: Icon, label, value, link }) => (
-                        <div
-                          key={label}
-                          className="flex items-start gap-4 p-5 rounded-2xl"
-                          style={{
-                            border: "1px solid rgba(181,144,62,0.12)",
-                            background: "rgba(181,144,62,0.02)",
-                          }}
-                        >
-                          <div className="w-10 h-10 rounded-full bg-[rgba(181,144,62,0.1)] border border-[rgba(181,144,62,0.2)] flex items-center justify-center flex-shrink-0">
+                        <div key={label} className="flex items-start gap-4">
+                          <div className="w-10 h-10 rounded-full bg-[rgba(181,144,62,0.1)] border border-[rgba(181,144,62,0.2)] flex items-center justify-center shrink-0">
                             <Icon size={16} className="text-[#B5903E]" />
                           </div>
                           <div>
@@ -116,36 +109,7 @@ export default function ContactPage() {
                       ))}
                     </div>
 
-                    {/* Hours */}
-                    <div
-                      className="mt-8 p-6 rounded-2xl"
-                      style={{
-                        border: "1px solid rgba(181,144,62,0.12)",
-                        background: "rgba(181,144,62,0.02)",
-                      }}
-                    >
-                      <div className="flex items-center gap-3 mb-4">
-                        <Clock size={16} className="text-[#B5903E]" />
-                        <span className="font-inter text-[10px] tracking-[0.3em] uppercase text-[rgba(44,32,22,0.4)]">
-                          Horaires d&apos;ouverture
-                        </span>
-                      </div>
-                      <div className="space-y-2">
-                        {BUSINESS_INFO.hours.map(({ day, hours }) => (
-                          <div key={day} className="flex justify-between gap-4">
-                            <span className="font-inter text-sm text-[rgba(44,32,22,0.5)]">
-                              {day}
-                            </span>
-                            <span className="font-inter text-sm text-[rgba(44,32,22,0.8)]">
-                              {hours}
-                            </span>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-
-                    {/* Social */}
-                    <div className="mt-6 flex items-center gap-4">
+                    <div className="mt-8 pt-6 border-t border-[rgba(181,144,62,0.12)] flex items-center gap-4">
                       <span className="font-inter text-xs text-[rgba(44,32,22,0.4)] tracking-widest uppercase">
                         Suivez-nous
                       </span>
@@ -181,110 +145,39 @@ export default function ContactPage() {
                   </div>
                 </AnimatedSection>
 
-                {/* Contact form */}
-                <AnimatedSection direction="right" delay={0.2}>
+                {/* Opening hours */}
+                <AnimatedSection direction="right" delay={0.15}>
                   <div
-                    className="p-8 md:p-10 rounded-3xl"
+                    className="h-full p-6 md:p-8 rounded-2xl"
                     style={{
-                      border: "1px solid rgba(181,144,62,0.15)",
+                      border: "1px solid rgba(181,144,62,0.12)",
                       background: "rgba(181,144,62,0.02)",
                     }}
                   >
-                    <span className="font-inter text-[10px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
-                      Formulaire de contact
-                    </span>
-                    <h3 className="font-cormorant text-3xl font-light text-[#2C2016] mb-8">
-                      Envoyez-nous un message
-                    </h3>
+                    <div className="flex items-center gap-3 mb-6">
+                      <div className="w-10 h-10 rounded-full bg-[rgba(181,144,62,0.1)] border border-[rgba(181,144,62,0.2)] flex items-center justify-center shrink-0">
+                        <Clock size={16} className="text-[#B5903E]" />
+                      </div>
+                      <span className="font-inter text-[10px] tracking-[0.3em] uppercase text-[rgba(44,32,22,0.4)]">
+                        Horaires d&apos;ouverture
+                      </span>
+                    </div>
 
-                    {sent ? (
-                      <motion.div
-                        initial={{ opacity: 0, scale: 0.9 }}
-                        animate={{ opacity: 1, scale: 1 }}
-                        className="text-center py-12"
-                      >
-                        <div className="w-16 h-16 rounded-full bg-[rgba(181,144,62,0.1)] border border-[#B5903E] flex items-center justify-center mx-auto mb-4">
-                          <Send size={24} className="text-[#B5903E]" />
-                        </div>
-                        <h4 className="font-cormorant text-2xl text-[#2C2016] mb-2">
-                          Message envoyé !
-                        </h4>
-                        <p className="font-inter text-sm text-[rgba(44,32,22,0.55)]">
-                          Nous vous répondrons dans les plus brefs délais.
-                        </p>
-                      </motion.div>
-                    ) : (
-                      <form onSubmit={handleSubmit} className="space-y-5">
-                        {[
-                          {
-                            name: "name" as const,
-                            label: "Nom complet",
-                            type: "text",
-                            placeholder: "Votre nom",
-                          },
-                          {
-                            name: "email" as const,
-                            label: "Adresse e-mail",
-                            type: "email",
-                            placeholder: "votre@email.fr",
-                          },
-                          {
-                            name: "subject" as const,
-                            label: "Sujet",
-                            type: "text",
-                            placeholder: "Votre sujet",
-                          },
-                        ].map(({ name, label, type, placeholder }) => (
-                          <div key={name}>
-                            <label className="block font-inter text-[10px] tracking-[0.3em] uppercase text-[rgba(44,32,22,0.5)] mb-2">
-                              {label}
-                            </label>
-                            <input
-                              type={type}
-                              placeholder={placeholder}
-                              value={form[name]}
-                              onChange={(e) =>
-                                setForm((f) => ({
-                                  ...f,
-                                  [name]: e.target.value,
-                                }))
-                              }
-                              required
-                              className="w-full px-5 py-3.5 rounded-xl bg-[rgba(181,144,62,0.04)] border border-[rgba(181,144,62,0.18)] text-[#2C2016] font-inter text-sm placeholder-[rgba(44,32,22,0.25)] focus:outline-none focus:border-[rgba(181,144,62,0.6)] transition-colors"
-                            />
-                          </div>
-                        ))}
-
-                        <div>
-                          <label className="block font-inter text-[10px] tracking-[0.3em] uppercase text-[rgba(44,32,22,0.5)] mb-2">
-                            Message
-                          </label>
-                          <textarea
-                            rows={5}
-                            placeholder="Votre message..."
-                            value={form.message}
-                            onChange={(e) =>
-                              setForm((f) => ({
-                                ...f,
-                                message: e.target.value,
-                              }))
-                            }
-                            required
-                            className="w-full px-5 py-3.5 rounded-xl bg-[rgba(181,144,62,0.04)] border border-[rgba(181,144,62,0.18)] text-[#2C2016] font-inter text-sm placeholder-[rgba(44,32,22,0.25)] focus:outline-none focus:border-[rgba(181,144,62,0.6)] transition-colors resize-none"
-                          />
-                        </div>
-
-                        <motion.button
-                          type="submit"
-                          whileHover={{ scale: 1.02 }}
-                          whileTap={{ scale: 0.98 }}
-                          className="w-full py-4 rounded-xl btn-gold text-sm flex items-center justify-center gap-2 mt-2"
+                    <div className="space-y-3">
+                      {BUSINESS_INFO.hours.map(({ day, hours }) => (
+                        <div
+                          key={day}
+                          className="flex justify-between gap-4 py-2 border-b border-[rgba(181,144,62,0.08)] last:border-0"
                         >
-                          <Send size={14} />
-                          Envoyer le message
-                        </motion.button>
-                      </form>
-                    )}
+                          <span className="font-inter text-sm text-[rgba(44,32,22,0.5)]">
+                            {day}
+                          </span>
+                          <span className="font-inter text-sm font-medium text-[rgba(44,32,22,0.8)]">
+                            {hours}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
                   </div>
                 </AnimatedSection>
               </div>
