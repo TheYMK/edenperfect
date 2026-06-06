@@ -41,7 +41,7 @@ export default function HeroV2() {
           className="absolute inset-0 z-0"
         >
           <Image
-            src="/images/hero_bg2.png"
+            src="/images/hero_bg3.png"
             alt="Eden Perfect — Institut de beauté"
             fill
             className="object-contain object-bottom"
@@ -203,7 +203,7 @@ export default function HeroV2() {
             className="absolute inset-0"
           >
             <Image
-              src="/images/hero_bg2.png"
+              src="/images/hero_bg3.png"
               alt="Eden Perfect — Institut de beauté"
               fill
               className="object-contain object-bottom"

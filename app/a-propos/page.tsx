@@ -53,23 +53,24 @@ export default function AProposPage() {
       <main>
         <div className="bg-site">
           {/* Hero */}
-          <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
-            <div
-              className="absolute inset-0 bg-cover bg-center"
-              style={{ backgroundImage: `url('/images/about.jpeg')` }}
-            />
-            <div className="absolute inset-0 bg-[rgba(28,20,16,0.8)]" />
+          <section
+            className="relative h-[45vh] flex items-center justify-center overflow-hidden"
+            style={{
+              background:
+                "radial-gradient(ellipse 80% 70% at 50% 50%, #9E7352 0%, #7D5A3C 50%, #6B4A30 80%, #5E3D28 100%)",
+            }}
+          >
             <div className="relative z-10 text-center">
               <motion.div
                 initial={{ opacity: 0, y: 30 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1 }}
               >
-                <span className="font-inter text-[10px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
+                <span className="font-inter text-[12px] font-bold tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
                   Notre Histoire
                 </span>
-                <h1 className="font-cormorant text-6xl md:text-8xl font-light text-white">
-                  À Propos
+                <h1 className="font-cormorant text-6xl md:text-8xl font-bold text-white">
+                  À Propos de nous
                 </h1>
               </motion.div>
             </div>

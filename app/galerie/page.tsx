@@ -8,23 +8,57 @@ import Footer from "@/components/layout/Footer";
 import GoldSeparator from "@/components/ui/GoldSeparator";
 
 const images = [
-  { src: "/images/gallery/1.jpg", alt: "Lissage body wave", category: "Coiffure" },
+  {
+    src: "/images/gallery/1.jpg",
+    alt: "Lissage body wave",
+    category: "Coiffure",
+  },
   { src: "/images/gallery/2.jpg", alt: "Tresses bohèmes", category: "Tresses" },
   { src: "/images/gallery/3.jpg", alt: "Tresses collées", category: "Tresses" },
-  { src: "/images/gallery/4.jpg", alt: "Coiffure élégante", category: "Coiffure" },
+  {
+    src: "/images/gallery/4.jpg",
+    alt: "Coiffure élégante",
+    category: "Coiffure",
+  },
   { src: "/images/gallery/5.jpg", alt: "Curly bob", category: "Coiffure" },
-  { src: "/images/gallery/6.jpg", alt: "Tresses africaines", category: "Tresses" },
-  { src: "/images/gallery/7.jpg", alt: "Coiffure sur mesure", category: "Coiffure" },
-  { src: "/images/gallery/8.jpg", alt: "Tresses tendance", category: "Tresses" },
+  {
+    src: "/images/gallery/6.jpg",
+    alt: "Tresses africaines",
+    category: "Tresses",
+  },
+  {
+    src: "/images/gallery/7.jpg",
+    alt: "Coiffure sur mesure",
+    category: "Coiffure",
+  },
+  {
+    src: "/images/gallery/8.jpg",
+    alt: "Tresses tendance",
+    category: "Tresses",
+  },
   { src: "/images/gallery/9.jpg", alt: "Coupe stylée", category: "Coiffure" },
-  { src: "/images/gallery/10.jpg", alt: "Coiffure naturelle", category: "Coiffure" },
-  { src: "/images/gallery/11.jpg", alt: "Tresses créatives", category: "Tresses" },
-  { src: "/images/gallery/12.jpg", alt: "Beauté naturelle", category: "Coiffure" },
+  {
+    src: "/images/gallery/10.jpg",
+    alt: "Coiffure naturelle",
+    category: "Coiffure",
+  },
+  {
+    src: "/images/gallery/11.jpg",
+    alt: "Tresses créatives",
+    category: "Tresses",
+  },
+  {
+    src: "/images/gallery/12.jpg",
+    alt: "Beauté naturelle",
+    category: "Coiffure",
+  },
   { src: "/images/gallery/13.jpg", alt: "Style unique", category: "Coiffure" },
 ];
 
 export default function GaleriePage() {
-  const [selected, setSelected] = useState<typeof images[number] | null>(null);
+  const [selected, setSelected] = useState<(typeof images)[number] | null>(
+    null,
+  );
 
   return (
     <>
@@ -32,18 +66,25 @@ export default function GaleriePage() {
       <main>
         <div className="bg-site">
           {/* Hero */}
-          <section className="relative h-[55vh] flex items-center justify-center overflow-hidden">
-            <div
-              className="absolute inset-0 bg-cover bg-center"
-              style={{ backgroundImage: `url('/images/galery.jpeg')` }}
-            />
-            <div className="absolute inset-0 bg-[rgba(28,20,16,0.8)]" />
+          <section
+            className="relative h-[45vh] flex items-center justify-center overflow-hidden"
+            style={{
+              background:
+                "radial-gradient(ellipse 80% 70% at 50% 50%, #9E7352 0%, #7D5A3C 50%, #6B4A30 80%, #5E3D28 100%)",
+            }}
+          >
             <div className="relative z-10 text-center">
-              <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1 }}>
-                <span className="font-inter text-[10px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
+              <motion.div
+                initial={{ opacity: 0, y: 30 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 1 }}
+              >
+                <span className="font-inter text-[12px] font-bold tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
                   L&apos;art de la beauté
                 </span>
-                <h1 className="font-cormorant text-6xl md:text-8xl font-light text-white">Galerie</h1>
+                <h1 className="font-cormorant text-6xl md:text-8xl font-bold text-white">
+                  Galerie
+                </h1>
               </motion.div>
             </div>
           </section>
@@ -118,7 +159,9 @@ export default function GaleriePage() {
                     className="w-full max-h-[80vh] object-contain rounded-2xl"
                   />
                   <div className="text-center mt-4">
-                    <p className="font-cormorant text-xl text-white">{selected.alt}</p>
+                    <p className="font-cormorant text-xl text-white">
+                      {selected.alt}
+                    </p>
                     <p className="font-inter text-xs tracking-widest uppercase text-[#B5903E] mt-1">
                       {selected.category}
                     </p>
