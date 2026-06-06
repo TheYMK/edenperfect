@@ -28,7 +28,7 @@ export default function ContactPage() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1 }}
               >
-                <span className="font-inter text-[12px] tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
+                <span className="font-inter text-[12px] font-bold tracking-[0.4em] uppercase text-[#B5903E] block mb-4">
                   Nous sommes à votre écoute
                 </span>
                 <h1 className="font-cormorant text-6xl md:text-8xl font-bold text-white">
