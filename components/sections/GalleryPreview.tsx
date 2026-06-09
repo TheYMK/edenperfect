@@ -4,29 +4,29 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import AnimatedSection from "@/components/ui/AnimatedSection";
 
-const images = [
+const videos = [
   {
-    src: "/images/gallery/2.jpg",
+    src: "/videos/01_tiktok.mp4",
     alt: "Tresses bohèmes",
     span: "col-span-1 row-span-2",
   },
   {
-    src: "/images/gallery/3.jpg",
+    src: "/videos/02_tiktok.mp4",
     alt: "Tresses collées",
     span: "col-span-1 row-span-1",
   },
   {
-    src: "/images/gallery/4.jpg",
+    src: "/videos/03_tiktok.mp4",
     alt: "Coiffure élégante",
     span: "col-span-1 row-span-1",
   },
   {
-    src: "/images/gallery/6.jpg",
+    src: "/videos/04_tiktok.mp4",
     alt: "Tresses africaines",
     span: "col-span-1 row-span-1",
   },
   {
-    src: "/images/gallery/7.jpg",
+    src: "/videos/05_tiktok.mp4",
     alt: "Curly bob",
     span: "col-span-1 row-span-1",
   },
@@ -48,7 +48,7 @@ export default function GalleryPreview() {
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4 h-[500px] md:h-[600px]">
-          {images.map(({ src, alt, span }, i) => (
+          {videos.map(({ src, alt, span }, i) => (
             <motion.div
               key={i}
               className={`relative overflow-hidden rounded-2xl ${span} group cursor-pointer`}
@@ -57,9 +57,13 @@ export default function GalleryPreview() {
               viewport={{ once: true, margin: "-50px" }}
               transition={{ duration: 0.7, delay: i * 0.1 }}
             >
-              <img
+              <video
                 src={src}
-                alt={alt}
+                autoPlay
+                loop
+                muted
+                playsInline
+                aria-label={alt}
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-[rgba(46,30,24,0.4)] opacity-0 group-hover:opacity-100 transition-opacity duration-400 flex items-end p-4">

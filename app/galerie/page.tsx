@@ -2,60 +2,27 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, ZoomIn } from "lucide-react";
+import { X, Play } from "lucide-react";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import GoldSeparator from "@/components/ui/GoldSeparator";
 
-const images = [
-  {
-    src: "/images/gallery/1.jpg",
-    alt: "Lissage body wave",
-    category: "Coiffure",
-  },
-  { src: "/images/gallery/2.jpg", alt: "Tresses bohèmes", category: "Tresses" },
-  { src: "/images/gallery/3.jpg", alt: "Tresses collées", category: "Tresses" },
-  {
-    src: "/images/gallery/4.jpg",
-    alt: "Coiffure élégante",
-    category: "Coiffure",
-  },
-  {
-    src: "/images/gallery/6.jpg",
-    alt: "Tresses africaines",
-    category: "Tresses",
-  },
-  {
-    src: "/images/gallery/7.jpg",
-    alt: "Coiffure sur mesure",
-    category: "Coiffure",
-  },
-  // {
-  //   src: "/images/gallery/8.jpg",
-  //   alt: "Tresses tendance",
-  //   category: "Tresses",
-  // },
-  { src: "/images/gallery/9.jpg", alt: "Coupe stylée", category: "Coiffure" },
-  // {
-  //   src: "/images/gallery/10.jpg",
-  //   alt: "Coiffure naturelle",
-  //   category: "Coiffure",
-  // },
-  {
-    src: "/images/gallery/11.jpg",
-    alt: "Tresses créatives",
-    category: "Tresses",
-  },
-  {
-    src: "/images/gallery/12.jpg",
-    alt: "Beauté naturelle",
-    category: "Coiffure",
-  },
-  { src: "/images/gallery/13.jpg", alt: "Style unique", category: "Coiffure" },
+const videos = [
+  { src: "/videos/01_tiktok.mp4", alt: "Lissage body wave" },
+  { src: "/videos/02_tiktok.mp4", alt: "Tresses bohèmes" },
+  { src: "/videos/03_tiktok.mp4", alt: "Tresses collées" },
+  { src: "/videos/04_tiktok.mp4", alt: "Coiffure élégante" },
+  { src: "/videos/05_tiktok.mp4", alt: "Tresses africaines" },
+  { src: "/videos/06_tiktok.mp4", alt: "Coiffure sur mesure" },
+  { src: "/videos/07_tiktok.mp4", alt: "Coupe stylée" },
+  { src: "/videos/08_tiktok.mp4", alt: "Tresses créatives" },
+  { src: "/videos/09_tiktok.mp4", alt: "Beauté naturelle" },
+  { src: "/videos/10_tiktok.mp4", alt: "Style unique" },
+  { src: "/videos/11_tiktok.mp4", alt: "Coiffure tendance" },
 ];
 
 export default function GaleriePage() {
-  const [selected, setSelected] = useState<(typeof images)[number] | null>(
+  const [selected, setSelected] = useState<(typeof videos)[number] | null>(
     null,
   );
 
@@ -94,7 +61,7 @@ export default function GaleriePage() {
 
               {/* Masonry grid */}
               <div className="columns-1 sm:columns-2 lg:columns-3 gap-5 space-y-5">
-                {images.map((image, i) => (
+                {videos.map((video, i) => (
                   <motion.div
                     key={i}
                     initial={{ opacity: 0, scale: 0.95 }}
@@ -102,21 +69,22 @@ export default function GaleriePage() {
                     viewport={{ once: true, margin: "-50px" }}
                     transition={{ duration: 0.6, delay: (i % 3) * 0.1 }}
                     className="break-inside-avoid relative group overflow-hidden rounded-2xl cursor-pointer"
-                    onClick={() => setSelected(image)}
+                    onClick={() => setSelected(video)}
                   >
-                    <img
-                      src={image.src}
-                      alt={image.alt}
+                    <video
+                      src={video.src}
+                      autoPlay
+                      loop
+                      muted
+                      playsInline
+                      aria-label={video.alt}
                       className="w-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
                     <div className="absolute inset-0 bg-[rgba(46,30,24,0)] group-hover:bg-[rgba(46,30,24,0.55)] transition-all duration-400 flex items-center justify-center">
                       <div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col items-center gap-3">
                         <div className="w-12 h-12 rounded-full border border-[#B5903E] flex items-center justify-center">
-                          <ZoomIn size={18} className="text-[#B5903E]" />
+                          <Play size={18} className="text-[#B5903E]" />
                         </div>
-                        {/* <span className="font-inter text-xs tracking-widest uppercase text-[#B5903E]">
-                          {image.category}
-                        </span> */}
                       </div>
                     </div>
                     <div className="absolute inset-0 border border-[rgba(181,144,62,0)] group-hover:border-[rgba(181,144,62,0.4)] rounded-2xl transition-all duration-400 pointer-events-none" />
@@ -152,19 +120,15 @@ export default function GaleriePage() {
                   onClick={(e) => e.stopPropagation()}
                   className="max-w-4xl w-full"
                 >
-                  <img
+                  <video
                     src={selected.src}
-                    alt={selected.alt}
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    aria-label={selected.alt}
                     className="w-full max-h-[80vh] object-contain rounded-2xl"
                   />
-                  <div className="text-center mt-4">
-                    {/* <p className="font-cormorant text-xl text-white">
-                      {selected.alt}
-                    </p> */}
-                    {/* <p className="font-inter text-xs tracking-widest uppercase text-[#B5903E] mt-1">
-                      {selected.category}
-                    </p> */}
-                  </div>
                 </motion.div>
               </motion.div>
             )}
